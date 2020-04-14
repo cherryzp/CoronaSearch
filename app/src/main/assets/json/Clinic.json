@@ -1,0 +1,4324 @@
+[
+    
+    {
+        "clinicName": "강남구보건소",
+        "lattitude": "37.51636078",
+        "longtitude": "127.0422731",
+        "phone": "02-3423-7200",
+        "roadaddr": "서울 강남구 선릉로 668"
+    },
+    
+    {
+        "clinicName": "삼성서울병원",
+        "lattitude": "37.48809998",
+        "longtitude": "127.0853736",
+        "phone": "02-3410-2114",
+        "roadaddr": "서울 강남구 일원로 81"
+    },
+    
+    {
+        "clinicName": "연세대학교 강남세브란스병원",
+        "lattitude": "37.49278895",
+        "longtitude": "127.0463487",
+        "phone": "1599-6114",
+        "roadaddr": "서울 강남구 언주로 211"
+    },
+    
+    {
+        "clinicName": "강동경희대학교병원",
+        "lattitude": "37.55353576",
+        "longtitude": "127.1576057",
+        "phone": "1577-5800",
+        "roadaddr": "서울 강동구 동남로 892"
+    },
+    
+    {
+        "clinicName": "강동구보건소",
+        "lattitude": "37.52926877",
+        "longtitude": "127.1256147",
+        "phone": "02-3425-8500",
+        "roadaddr": "서울 강동구 성내로 45"
+    },
+    
+    {
+        "clinicName": "한국보훈복지의료공단 중앙보훈병원",
+        "lattitude": "37.5282209",
+        "longtitude": "127.1467189",
+        "phone": "02-2225-1234",
+        "roadaddr": "서울 강동구 진황도로61길 53"
+    },
+    
+    {
+        "clinicName": "강북구보건소",
+        "lattitude": "37.63218664",
+        "longtitude": "127.038813",
+        "phone": "02-901-7600",
+        "roadaddr": "서울 강북구 한천로 897"
+    },
+    
+    {
+        "clinicName": "강서구보건소",
+        "lattitude": "37.54961751",
+        "longtitude": "126.8682856",
+        "phone": "02-2600-5800",
+        "roadaddr": "서울 강서구 공항대로 561"
+    },
+    
+    {
+        "clinicName": "이대서울병원",
+        "lattitude": "37.55726115",
+        "longtitude": "126.8362659",
+        "phone": "1522-7000",
+        "roadaddr": "서울 강서구 공항대로 260"
+    },
+    
+    {
+        "clinicName": "관악구보건소",
+        "lattitude": "37.47866904",
+        "longtitude": "126.9509014",
+        "phone": "02-879-4911",
+        "roadaddr": "서울 관악구 관악로 145"
+    },
+    
+    {
+        "clinicName": "에이치플러스 양지병원",
+        "lattitude": "37.48414102",
+        "longtitude": "126.9325733",
+        "phone": "1877-8875",
+        "roadaddr": "서울 관악구 남부순환로 1636"
+    },
+    
+    {
+        "clinicName": "광진구보건소",
+        "lattitude": "37.53854423",
+        "longtitude": "127.08191",
+        "phone": "02-450-1422",
+        "roadaddr": "서울 광진구 자양로 117"
+    },
+    
+    {
+        "clinicName": "건국대학교병원",
+        "lattitude": "37.54119957",
+        "longtitude": "127.0720947",
+        "phone": "1588-1533",
+        "roadaddr": "서울 광진구 능동로 120-1"
+    },
+    
+    {
+        "clinicName": "구로구보건소",
+        "lattitude": "37.50010926",
+        "longtitude": "126.8893665",
+        "phone": "02-860-2600",
+        "roadaddr": "서울 구로구 구로중앙로28길 66"
+    },
+    
+    {
+        "clinicName": "금천구보건소",
+        "lattitude": "37.45708673",
+        "longtitude": "126.8960261",
+        "phone": "02-2627-2300",
+        "roadaddr": "서울 금천구 시흥대로73길 70"
+    },
+    
+    {
+        "clinicName": "노원구보건소",
+        "lattitude": "37.65466422",
+        "longtitude": "127.0569837",
+        "phone": "02-2116-4373",
+        "roadaddr": "서울 노원구 노해로 437"
+    },
+    
+    {
+        "clinicName": "노원을지대학교병원",
+        "lattitude": "37.63645379",
+        "longtitude": "127.0699128",
+        "phone": "1899-0001",
+        "roadaddr": "서울 노원구 한글비석로 68"
+    },
+    
+    {
+        "clinicName": "인제대학교 상계백병원",
+        "lattitude": "37.64858127",
+        "longtitude": "127.0631162",
+        "phone": "02-950-1114",
+        "roadaddr": "서울 노원구 동일로 1342"
+    },
+    
+    {
+        "clinicName": "도봉구보건소",
+        "lattitude": "37.65791512",
+        "longtitude": "127.0388445",
+        "phone": "02-2091-4600",
+        "roadaddr": "서울 도봉구 방학로3길 117"
+    },
+    
+    {
+        "clinicName": "동대문구보건소",
+        "lattitude": "37.57469939",
+        "longtitude": "127.0402231",
+        "phone": "02-2127-5365",
+        "roadaddr": "서울 동대문구 천호대로 145"
+    },
+    
+    {
+        "clinicName": "경희대학교병원",
+        "lattitude": "37.5938752",
+        "longtitude": "127.0518329",
+        "phone": "02-958-8114",
+        "roadaddr": "서울 동대문구 경희대로 23"
+    },
+    
+    {
+        "clinicName": "삼육서울병원",
+        "lattitude": "37.58799043",
+        "longtitude": "127.0653294",
+        "phone": "1577-3675",
+        "roadaddr": "서울 동대문구 망우로 82"
+    },
+    
+    {
+        "clinicName": "동작구보건소",
+        "lattitude": "37.50444959",
+        "longtitude": "126.941113",
+        "phone": "02-820-1423",
+        "roadaddr": "서울 동작구 장승배기로10길 42"
+    },
+    
+    {
+        "clinicName": "보라매병원",
+        "lattitude": "37.49379006",
+        "longtitude": "126.924191",
+        "phone": "1577-0075",
+        "roadaddr": "서울 동작구 보라매로5길 20"
+    },
+    
+    {
+        "clinicName": "마포구보건소",
+        "lattitude": "37.56694932",
+        "longtitude": "126.9018591",
+        "phone": "02-3153-9020",
+        "roadaddr": "서울 마포구 월드컵로 212"
+    },
+    
+    {
+        "clinicName": "서대문구보건소",
+        "lattitude": "37.57861016",
+        "longtitude": "126.9362727",
+        "phone": "02-330-1801",
+        "roadaddr": "서울 서대문구 연희로 242"
+    },
+    
+    {
+        "clinicName": "서초구보건소",
+        "lattitude": "37.4835958",
+        "longtitude": "127.0335079",
+        "phone": "02-2155-8114",
+        "roadaddr": "서울 서초구 남부순환로 2584"
+    },
+    
+    {
+        "clinicName": "성동구보건소",
+        "lattitude": "37.56709356",
+        "longtitude": "127.0332193",
+        "phone": "02-2286-7000",
+        "roadaddr": "서울 성동구 마장로23길 10"
+    },
+    
+    {
+        "clinicName": "한양대학교병원",
+        "lattitude": "37.55961169",
+        "longtitude": "127.0442034",
+        "phone": "02-2290-8114",
+        "roadaddr": "서울 성동구 왕십리로 222-1"
+    },
+    
+    {
+        "clinicName": "성북구보건소",
+        "lattitude": "37.60270967",
+        "longtitude": "127.0395315",
+        "phone": "02-2241-1749",
+        "roadaddr": "서울 성북구 화랑로 63"
+    },
+    
+    {
+        "clinicName": "송파구보건소",
+        "lattitude": "37.51457954",
+        "longtitude": "127.1065557",
+        "phone": "02-410-3701",
+        "roadaddr": "서울 송파구 올림픽로 326"
+    },
+    
+    {
+        "clinicName": "서울아산병원",
+        "lattitude": "37.52656495",
+        "longtitude": "127.108238",
+        "phone": "1688-7575",
+        "roadaddr": "서울 송파구 올림픽로43길 88"
+    },
+    
+    {
+        "clinicName": "양천구보건소",
+        "lattitude": "37.51758962",
+        "longtitude": "126.8658578",
+        "phone": "02-2620-3114",
+        "roadaddr": "서울 양천구 목동서로 339"
+    },
+    
+    {
+        "clinicName": "이대목동병원",
+        "lattitude": "37.53660416",
+        "longtitude": "126.8862849",
+        "phone": "02-2650-5114",
+        "roadaddr": "서울 양천구 안양천로 1071"
+    },
+    
+    {
+        "clinicName": "영등포구보건소",
+        "lattitude": "37.52634848",
+        "longtitude": "126.8955047",
+        "phone": "02-2670-3114",
+        "roadaddr": "서울 영등포구 당산로 123"
+    },
+    
+    {
+        "clinicName": "한림대학교 강남성심병원",
+        "lattitude": "37.49338632",
+        "longtitude": "126.9087764",
+        "phone": "1577-5587",
+        "roadaddr": "서울 영등포구 신길로 1"
+    },
+    
+    {
+        "clinicName": "성애병원",
+        "lattitude": "37.51200003",
+        "longtitude": "126.9224307",
+        "phone": "1811-8114",
+        "roadaddr": "서울 영등포구 여의대방로53길 22"
+    },
+    
+    {
+        "clinicName": "용산구보건소",
+        "lattitude": "37.53258962",
+        "longtitude": "126.9906185",
+        "phone": "02-2199-8012",
+        "roadaddr": "서울 용산구 녹사평대로 150"
+    },
+    
+    {
+        "clinicName": "순천향대학교부속 서울병원",
+        "lattitude": "37.53379004",
+        "longtitude": "127.0044317",
+        "phone": "02-709-9114",
+        "roadaddr": "서울 용산구 대사관로 59"
+    },
+    
+    {
+        "clinicName": "은평구보건소",
+        "lattitude": "37.60245697",
+        "longtitude": "126.9288236",
+        "phone": "02-351-8114",
+        "roadaddr": "서울 은평구 은평로 195"
+    },
+    
+    {
+        "clinicName": "가톨릭대학교 은평성모병원",
+        "lattitude": "37.63359407",
+        "longtitude": "126.9162536",
+        "phone": "1811-7755",
+        "roadaddr": "서울 은평구 통일로 1021"
+    },
+    
+    {
+        "clinicName": "종로구보건소",
+        "lattitude": "37.58183089",
+        "longtitude": "126.9692241",
+        "phone": "02-2148-3520",
+        "roadaddr": "서울 종로구 자하문로19길 36"
+    },
+    
+    {
+        "clinicName": "서울대학교병원",
+        "lattitude": "37.57966531",
+        "longtitude": "126.998963",
+        "phone": "1588-5700",
+        "roadaddr": "서울 종로구 대학로 101"
+    },
+    
+    {
+        "clinicName": "강북삼성병원",
+        "lattitude": "37.56850664",
+        "longtitude": "126.9679211",
+        "phone": "1599-8114",
+        "roadaddr": "서울 종로구 새문안로 29"
+    },
+    
+    {
+        "clinicName": "인제대학교 서울백병원",
+        "lattitude": "37.56505064",
+        "longtitude": "126.9888397",
+        "phone": "02-2270-0114",
+        "roadaddr": "서울 중구 마른내로 9"
+    },
+    
+    {
+        "clinicName": "국립중앙의료원",
+        "lattitude": "37.56724946",
+        "longtitude": "127.0056913",
+        "phone": "1588-1775",
+        "roadaddr": "서울 중구 을지로 245"
+    },
+    
+    {
+        "clinicName": "중구보건소",
+        "lattitude": "37.5645889",
+        "longtitude": "127.0150912",
+        "phone": "02-3396-6317",
+        "roadaddr": "서울 중구 다산로39길 16"
+    },
+    
+    {
+        "clinicName": "중랑구보건소",
+        "lattitude": "37.60687477",
+        "longtitude": "127.0928569",
+        "phone": "02-2094-0115",
+        "roadaddr": "서울 중랑구 봉화산로 179"
+    },
+    
+    {
+        "clinicName": "서울의료원",
+        "lattitude": "37.61286752",
+        "longtitude": "127.0980925",
+        "phone": "02-2276-7000",
+        "roadaddr": "서울 중랑구 신내로 156"
+    },
+    
+    {
+        "clinicName": "강서구보건소",
+        "lattitude": "37.54961751",
+        "longtitude": "126.8682856",
+        "phone": "02-2600-5800",
+        "roadaddr": "서울 강서구 공항대로 561"
+    },
+    
+    {
+        "clinicName": "갑을녹산병원",
+        "lattitude": "35.09057233",
+        "longtitude": "128.8533197",
+        "phone": "051-974-8300",
+        "roadaddr": "부산 강서구 녹산산단321로 24-8"
+    },
+    
+    {
+        "clinicName": "금정구보건소",
+        "lattitude": "35.24205368",
+        "longtitude": "129.0924546",
+        "phone": "051-519-5051",
+        "roadaddr": "부산 금정구 중앙대로 1777"
+    },
+    
+    {
+        "clinicName": "기장군보건소",
+        "lattitude": "35.24352222",
+        "longtitude": "129.222971",
+        "phone": "051-709-4795",
+        "roadaddr": "부산 기장군 기장읍 기장대로 560"
+    },
+    
+    {
+        "clinicName": "남구보건소",
+        "lattitude": "35.1360107",
+        "longtitude": "129.084970",
+        "phone": "051-607-6500",
+        "roadaddr": "부산 남구 못골로 23"
+    },
+    
+    {
+        "clinicName": "부산성모병원",
+        "lattitude": "35.11055627",
+        "longtitude": "129.1092028",
+        "phone": "051-933-7114",
+        "roadaddr": "부산 남구 용호로232번길 25-14"
+    },
+    
+    {
+        "clinicName": "봉생병원",
+        "lattitude": "35.13085756",
+        "longtitude": "129.0505714",
+        "phone": "051-664-4000",
+        "roadaddr": "부산 동구 중앙대로 401"
+    },
+    
+    {
+        "clinicName": "동구보건소",
+        "lattitude": "35.12927817",
+        "longtitude": "129.0448991",
+        "phone": "051-440-6501",
+        "roadaddr": "부산 동구 구청로 1"
+    },
+    
+    {
+        "clinicName": "대동병원",
+        "lattitude": "35.2042551",
+        "longtitude": "129.080235",
+        "phone": "051-554-1233",
+        "roadaddr": "부산 동래구 충렬대로 187"
+    },
+    
+    {
+        "clinicName": "동래구 보건소",
+        "lattitude": "35.21141202",
+        "longtitude": "129.079853",
+        "phone": "051-555-4000",
+        "roadaddr": "부산 동래구 명륜로187번길 56"
+    },
+    
+    {
+        "clinicName": "인제대학교 부산백병원",
+        "lattitude": "35.14632389",
+        "longtitude": "129.020836",
+        "phone": "051-890-6114",
+        "roadaddr": "부산 부산진구 복지로 75"
+    },
+    
+    {
+        "clinicName": "부산진구보건소",
+        "lattitude": "35.14627771",
+        "longtitude": "129.0599549",
+        "phone": "051-645-4000",
+        "roadaddr": "부산 부산진구 황령대로8번길 36"
+    },
+    
+    {
+        "clinicName": "북구보건소",
+        "lattitude": "35.2392987",
+        "longtitude": "129.014808",
+        "phone": "051-309-7064",
+        "roadaddr": "부산 북구 금곡대로 348"
+    },
+    
+    {
+        "clinicName": "사상구보건소",
+        "lattitude": "35.15244079",
+        "longtitude": "128.9921298",
+        "phone": "051-310-4791",
+        "roadaddr": "부산 사상구 학감대로 242"
+    },
+    
+    {
+        "clinicName": "좋은삼선병원",
+        "lattitude": "35.15054292",
+        "longtitude": "129.0081731",
+        "phone": "051-322-0900",
+        "roadaddr": "부산 사상구 가야대로 326"
+    },
+    
+    {
+        "clinicName": "사하구보건소",
+        "lattitude": "35.09415725",
+        "longtitude": "128.9595534",
+        "phone": "051-220-5701",
+        "roadaddr": "부산 사하구 하신번영로127번길 2"
+    },
+    
+    {
+        "clinicName": "서구보건소",
+        "lattitude": "35.1074764",
+        "longtitude": "129.018073",
+        "phone": "051-242-4000",
+        "roadaddr": "부산 서구 부용로 30"
+    },
+    
+    {
+        "clinicName": "부산대학교병원",
+        "lattitude": "35.10082433",
+        "longtitude": "129.0187383",
+        "phone": "051-240-7000",
+        "roadaddr": "부산 서구 구덕로 179"
+    },
+    
+    {
+        "clinicName": "동아대학교병원",
+        "lattitude": "35.1200961",
+        "longtitude": "129.0175949",
+        "phone": "051-240-2000",
+        "roadaddr": "부산 서구 대신공원로 26"
+    },
+    
+    {
+        "clinicName": "좋은강안병원",
+        "lattitude": "35.15015808",
+        "longtitude": "129.1107255",
+        "phone": "051-625-0900",
+        "roadaddr": "부산 수영구 수영로 493"
+    },
+    
+    {
+        "clinicName": "BHS한서병원",
+        "lattitude": "35.1608998",
+        "longtitude": "129.1132065",
+        "phone": "051-706-0081",
+        "roadaddr": "부산 수영구 수영로 615"
+    },
+    
+    {
+        "clinicName": "수영구보건소",
+        "lattitude": "35.16264411",
+        "longtitude": "129.1134317",
+        "phone": "051-752-4000",
+        "roadaddr": "부산 수영구 수영로 637-5"
+    },
+    
+    {
+        "clinicName": "연제구보건소",
+        "lattitude": "35.17683141",
+        "longtitude": "129.0791032",
+        "phone": "051-665-5684",
+        "roadaddr": "부산 연제구 연제로 2"
+    },
+    
+    {
+        "clinicName": "부산의료원",
+        "lattitude": "35.18729655",
+        "longtitude": "129.0592249",
+        "phone": "051-607-2816",
+        "roadaddr": "부산 연제구 월드컵대로 359"
+    },
+    
+    {
+        "clinicName": "영도구보건소",
+        "lattitude": "35.09017863",
+        "longtitude": "129.067976",
+        "phone": "051-419-4931",
+        "roadaddr": "부산 영도구 태종로 423"
+    },
+    
+    {
+        "clinicName": "중구보건소",
+        "lattitude": "35.1062826",
+        "longtitude": "129.032355",
+        "phone": "051-600-4681",
+        "roadaddr": "부산 중구 중구로 120"
+    },
+    
+    {
+        "clinicName": "해운대구보건소",
+        "lattitude": "35.1641122",
+        "longtitude": "129.178662",
+        "phone": "051-746-4000",
+        "roadaddr": "부산 해운대구 양운로37번길 59"
+    },
+    
+    {
+        "clinicName": "인제대학교 해운대백병원",
+        "lattitude": "35.17333591",
+        "longtitude": "129.1821831",
+        "phone": "051-797-2596",
+        "roadaddr": "부산 해운대구 해운대로 875"
+    },
+    
+    {
+        "clinicName": "영남대학교병원",
+        "lattitude": "35.84750487",
+        "longtitude": "128.58513",
+        "phone": "1522-3114",
+        "roadaddr": "대구 남구 현충로 170"
+    },
+    
+    {
+        "clinicName": "대구 가톨릭대학교병원",
+        "lattitude": "35.84390734",
+        "longtitude": "128.5681113",
+        "phone": "1688-0077",
+        "roadaddr": "대구 남구 두류공원로17길 33"
+    },
+    
+    {
+        "clinicName": "남구보건소",
+        "lattitude": "35.8539179",
+        "longtitude": "128.591528",
+        "phone": "053-664-3644",
+        "roadaddr": "대구 남구 영선길 34"
+    },
+    
+    {
+        "clinicName": "달서구보건소",
+        "lattitude": "35.82947841",
+        "longtitude": "128.5323235",
+        "phone": "053-667-3123",
+        "roadaddr": "대구 달서구 학산로 45"
+    },
+    
+    {
+        "clinicName": "계명대학교 동산병원",
+        "lattitude": "35.85388729",
+        "longtitude": "128.4801297",
+        "phone": "1577-6622",
+        "roadaddr": "대구 달서구 달구벌대로 1035"
+    },
+    
+    {
+        "clinicName": "달성군보건소",
+        "lattitude": "35.69482323",
+        "longtitude": "128.4403213",
+        "phone": "053-668-3121",
+        "roadaddr": "대구 달성군 현풍읍 비슬로130길 17"
+    },
+    
+    {
+        "clinicName": "대구파티마병원",
+        "lattitude": "35.88438852",
+        "longtitude": "128.6243915",
+        "phone": "1688-7770",
+        "roadaddr": "대구 동구 아양로 99"
+    },
+    
+    {
+        "clinicName": "동구보건소",
+        "lattitude": "35.8881217",
+        "longtitude": "128.651224",
+        "phone": "053-662-3222",
+        "roadaddr": "대구 동구 동촌로 79"
+    },
+    
+    {
+        "clinicName": "칠곡경북대학교병원",
+        "lattitude": "35.95671565",
+        "longtitude": "128.5641306",
+        "phone": "053-200-2000",
+        "roadaddr": "대구 북구 호국로 807"
+    },
+    
+    {
+        "clinicName": "북구보건소",
+        "lattitude": "35.89182365",
+        "longtitude": "128.5889102",
+        "phone": "053-665-3336",
+        "roadaddr": "대구 북구 성북로 49"
+    },
+    
+    {
+        "clinicName": "대구의료원",
+        "lattitude": "35.85962304",
+        "longtitude": "128.5405597",
+        "phone": "053-560-7575",
+        "roadaddr": "대구 서구 평리로 157"
+    },
+    
+    {
+        "clinicName": "서구보건소",
+        "lattitude": "35.8720481",
+        "longtitude": "128.559262",
+        "phone": "053-663-3111",
+        "roadaddr": "대구 서구 국채보상로 257"
+    },
+    
+    {
+        "clinicName": "수성구보건소",
+        "lattitude": "35.84459701",
+        "longtitude": "128.6124087",
+        "phone": "053-666-3111",
+        "roadaddr": "대구 수성구 수성로 213"
+    },
+    
+    {
+        "clinicName": "경북대학교병원",
+        "lattitude": "35.8659476",
+        "longtitude": "128.605119",
+        "phone": "053-200-5114",
+        "roadaddr": "대구 중구 동덕로 130"
+    },
+    
+    {
+        "clinicName": "중구보건소",
+        "lattitude": "35.8778969",
+        "longtitude": "128.583359",
+        "phone": "053-661-3121",
+        "roadaddr": "대구 중구 태평로 45"
+    },
+    
+    {
+        "clinicName": "강화군보건소",
+        "lattitude": "37.73708338",
+        "longtitude": "126.4847968",
+        "phone": "032-930-4015",
+        "roadaddr": "인천 강화군 강화읍 충렬사로 26-1"
+    },
+    
+    {
+        "clinicName": "비에스종합병원",
+        "lattitude": "37.73630909",
+        "longtitude": "126.4855384",
+        "phone": "032-290-0001",
+        "roadaddr": "인천 강화군 강화읍 충렬사로 31"
+    },
+    
+    {
+        "clinicName": "한림병원",
+        "lattitude": "37.53218311",
+        "longtitude": "126.7343563",
+        "phone": "032-540-9114",
+        "roadaddr": "인천 계양구 장제로 722"
+    },
+    
+    {
+        "clinicName": "메디플렉스세종병원",
+        "lattitude": "37.53253107",
+        "longtitude": "126.7368486",
+        "phone": "032-240-8000",
+        "roadaddr": "인천 계양구 계양문화로 20"
+    },
+    
+    {
+        "clinicName": "계양구보건소",
+        "lattitude": "37.53743927",
+        "longtitude": "126.7382751",
+        "phone": "032-430-7801",
+        "roadaddr": "인천 계양구 계산새로 88"
+    },
+    
+    {
+        "clinicName": "가천대 길병원",
+        "lattitude": "37.45207852",
+        "longtitude": "126.7091613",
+        "phone": "1577-2299",
+        "roadaddr": "인천 남동구 남동대로774번길 21"
+    },
+    
+    {
+        "clinicName": "남동구보건소",
+        "lattitude": "37.44740468",
+        "longtitude": "126.7307055",
+        "phone": "032-762-4001",
+        "roadaddr": "인천 남동구 소래로 633"
+    },
+    
+    {
+        "clinicName": "인천광역시의료원",
+        "lattitude": "37.47884342",
+        "longtitude": "126.6686102",
+        "phone": "032-580-6000",
+        "roadaddr": "인천 동구 방축로 217"
+    },
+    
+    {
+        "clinicName": "동구보건소",
+        "lattitude": "37.4829789",
+        "longtitude": "126.625810",
+        "phone": "032-770-5700",
+        "roadaddr": "인천 동구 석수로 90"
+    },
+    
+    {
+        "clinicName": "현대유비스병원",
+        "lattitude": "37.46173313",
+        "longtitude": "126.6431779",
+        "phone": "032-888-7575",
+        "roadaddr": "인천 미추홀구 독배로 503"
+    },
+    
+    {
+        "clinicName": "인천사랑병원",
+        "lattitude": "37.46224757",
+        "longtitude": "126.6806434",
+        "phone": "032-457-2000",
+        "roadaddr": "인천 미추홀구 미추홀대로 726"
+    },
+    
+    {
+        "clinicName": "인천미추홀구보건소",
+        "lattitude": "37.46109686",
+        "longtitude": "126.6774439",
+        "phone": "032-880-5311",
+        "roadaddr": "인천 미추홀구 주안서로 25"
+    },
+    
+    {
+        "clinicName": "가톨릭대학교 인천성모병원",
+        "lattitude": "37.48466788",
+        "longtitude": "126.7249185",
+        "phone": "1544-9004",
+        "roadaddr": "인천 부평구 동수로 56"
+    },
+    
+    {
+        "clinicName": "부평세림병원",
+        "lattitude": "37.50678707",
+        "longtitude": "126.7201222",
+        "phone": "032-509-5555",
+        "roadaddr": "인천 부평구 부평대로 175"
+    },
+    
+    {
+        "clinicName": "근로복지공단인천병원",
+        "lattitude": "37.47665383",
+        "longtitude": "126.7536908",
+        "phone": "032-500-0114",
+        "roadaddr": "인천 부평구 무네미로 446"
+    },
+    
+    {
+        "clinicName": "부평구보건소",
+        "lattitude": "37.49883371",
+        "longtitude": "126.7242468",
+        "phone": "032-509-8200",
+        "roadaddr": "인천 부평구 부흥로 291"
+    },
+    
+    {
+        "clinicName": "가톨릭관동대학교 국제성모병원",
+        "lattitude": "37.54237265",
+        "longtitude": "126.6836049",
+        "phone": "1600-8291",
+        "roadaddr": "인천 서구 심곡로100번길 25"
+    },
+    
+    {
+        "clinicName": "나은병원",
+        "lattitude": "37.48926835",
+        "longtitude": "126.6798307",
+        "phone": "032-584-0114",
+        "roadaddr": "인천 서구 원적로 23"
+    },
+    
+    {
+        "clinicName": "성민병원",
+        "lattitude": "37.50966118",
+        "longtitude": "126.6698448",
+        "phone": "032-726-1000",
+        "roadaddr": "인천 서구 신석로 70"
+    },
+    
+    {
+        "clinicName": "검단탑종합병원",
+        "lattitude": "37.59241906",
+        "longtitude": "126.6710421",
+        "phone": "032-590-0114",
+        "roadaddr": "인천 서구 청마로19번길 5"
+    },
+    
+    {
+        "clinicName": "온누리병원",
+        "lattitude": "37.6027807",
+        "longtitude": "126.654346",
+        "phone": "032-567-6200",
+        "roadaddr": "인천 서구 완정로 199"
+    },
+    
+    {
+        "clinicName": "서구보건소",
+        "lattitude": "37.54447258",
+        "longtitude": "126.6738917",
+        "phone": "032-560-5000",
+        "roadaddr": "인천 서구 탁옥로 39"
+    },
+    
+    {
+        "clinicName": "나사렛국제병원",
+        "lattitude": "37.40797423",
+        "longtitude": "126.6704768",
+        "phone": "032-899-9999",
+        "roadaddr": "인천 연수구 먼우금로 98"
+    },
+    
+    {
+        "clinicName": "연수구보건소",
+        "lattitude": "37.41913159",
+        "longtitude": "126.6711554",
+        "phone": "032-749-8000",
+        "roadaddr": "인천 연수구 함박뫼로 13"
+    },
+    
+    {
+        "clinicName": "옹진군보건소",
+        "lattitude": "37.44682271",
+        "longtitude": "126.6363529",
+        "phone": "032-899-3120",
+        "roadaddr": "인천 미추홀구 매소홀로 120"
+    },
+    
+    {
+        "clinicName": "백령병원",
+        "lattitude": "37.96801604",
+        "longtitude": "124.7211143",
+        "phone": "032-836-1731",
+        "roadaddr": "인천 옹진군 백령면 백령로 233"
+    },
+    
+    {
+        "clinicName": "인하대병원",
+        "lattitude": "37.45883349",
+        "longtitude": "126.6342705",
+        "phone": "032-890-2114",
+        "roadaddr": "인천 중구 인항로 27"
+    },
+    
+    {
+        "clinicName": "인천기독병원",
+        "lattitude": "37.47122814",
+        "longtitude": "126.6320803",
+        "phone": "032-270-8000",
+        "roadaddr": "인천 중구 답동로30번길 10"
+    },
+    
+    {
+        "clinicName": "중구보건소",
+        "lattitude": "37.4770513",
+        "longtitude": "126.628960",
+        "phone": "032-760-6001",
+        "roadaddr": "인천 중구 참외전로72번길 21"
+    },
+    
+    {
+        "clinicName": "광산구보건소",
+        "lattitude": "35.13998332",
+        "longtitude": "126.7935621",
+        "phone": "062-960-8746",
+        "roadaddr": "광주 광산구 광산로29번길 15"
+    },
+    
+    {
+        "clinicName": "첨단종합병원",
+        "lattitude": "35.2210959",
+        "longtitude": "126.8453197",
+        "phone": "062-601-8000",
+        "roadaddr": "광주 광산구 첨단중앙로170번길 59"
+    },
+    
+    {
+        "clinicName": "광주기독병원",
+        "lattitude": "35.13668399",
+        "longtitude": "126.9119822",
+        "phone": "062-650-5000",
+        "roadaddr": "광주 남구 양림로 37"
+    },
+    
+    {
+        "clinicName": "남구보건소",
+        "lattitude": "35.13299565",
+        "longtitude": "126.9026116",
+        "phone": "062-607-4450",
+        "roadaddr": "광주 남구 봉선로 1"
+    },
+    
+    {
+        "clinicName": "전남대학교병원",
+        "lattitude": "35.14181752",
+        "longtitude": "126.9215629",
+        "phone": "062-1899-0000",
+        "roadaddr": "광주 동구 제봉로 42"
+    },
+    
+    {
+        "clinicName": "조선대학교병원",
+        "lattitude": "35.1389579",
+        "longtitude": "126.9265298",
+        "phone": "062-220-3114",
+        "roadaddr": "광주 동구 필문대로 365"
+    },
+    
+    {
+        "clinicName": "동구보건소",
+        "lattitude": "35.1458883",
+        "longtitude": "126.923075",
+        "phone": "062-608-3261",
+        "roadaddr": "광주 동구 서남로 1"
+    },
+    
+    {
+        "clinicName": "광주일곡병원",
+        "lattitude": "35.2028612",
+        "longtitude": "126.8976086",
+        "phone": "062-608-7000",
+        "roadaddr": "광주 북구 양일로 309"
+    },
+    
+    {
+        "clinicName": "북구보건소",
+        "lattitude": "35.1733179",
+        "longtitude": "126.912203",
+        "phone": "062-410-8961",
+        "roadaddr": "광주 북구 우치로 65"
+    },
+    
+    {
+        "clinicName": "서광병원",
+        "lattitude": "35.1325701",
+        "longtitude": "126.8555289",
+        "phone": "062-600-8000",
+        "roadaddr": "광주 서구 금화로59번길 6"
+    },
+    
+    {
+        "clinicName": "서구보건소",
+        "lattitude": "35.1517121",
+        "longtitude": "126.889948",
+        "phone": "062-350-4108",
+        "roadaddr": "광주 서구 경열로 33"
+    },
+    
+    {
+        "clinicName": "대전보훈병원",
+        "lattitude": "36.4472358",
+        "longtitude": "127.4396818",
+        "phone": "042-939-0114",
+        "roadaddr": "대전 대덕구 대청로82번길 147"
+    },
+    
+    {
+        "clinicName": "대전한국병원",
+        "lattitude": "36.34831661",
+        "longtitude": "127.4357518",
+        "phone": "042-606-1000",
+        "roadaddr": "대전 동구 동서대로 1672"
+    },
+    
+    {
+        "clinicName": "건양대학교병원",
+        "lattitude": "36.30671144",
+        "longtitude": "127.3426303",
+        "phone": "1577-3330",
+        "roadaddr": "대전 서구 관저동로 158"
+    },
+    
+    {
+        "clinicName": "대전을지대학교병원",
+        "lattitude": "36.35506833",
+        "longtitude": "127.3819872",
+        "phone": "1899-0001",
+        "roadaddr": "대전 서구 둔산서로 95"
+    },
+    
+    {
+        "clinicName": "유성선병원",
+        "lattitude": "36.37517455",
+        "longtitude": "127.3249797",
+        "phone": "1588-7011",
+        "roadaddr": "대전 유성구 북유성대로 93"
+    },
+    
+    {
+        "clinicName": "충남대학교병원",
+        "lattitude": "36.31696847",
+        "longtitude": "127.4154563",
+        "phone": "1599-7123",
+        "roadaddr": "대전 중구 문화로 282"
+    },
+    
+    {
+        "clinicName": "대전선병원",
+        "lattitude": "36.33595308",
+        "longtitude": "127.4103845",
+        "phone": "1588-7011",
+        "roadaddr": "대전 중구 목중로 29"
+    },
+    
+    {
+        "clinicName": "가톨릭대학교 대전성모병원",
+        "lattitude": "36.32302377",
+        "longtitude": "127.4202738",
+        "phone": "1577-0888",
+        "roadaddr": "대전 중구 대흥로 64"
+    },
+    
+    {
+        "clinicName": "울산병원",
+        "lattitude": "35.54622073",
+        "longtitude": "129.3231011",
+        "phone": "052-259-5000",
+        "roadaddr": "울산 남구 월평로171번길 13"
+    },
+    
+    {
+        "clinicName": "좋은삼정병원",
+        "lattitude": "35.55282543",
+        "longtitude": "129.2689991",
+        "phone": "052-220-7500",
+        "roadaddr": "울산 남구 북부순환도로 51"
+    },
+    
+    {
+        "clinicName": "중앙병원",
+        "lattitude": "35.53161978",
+        "longtitude": "129.3051795",
+        "phone": "052-226-1100",
+        "roadaddr": "울산 남구 문수로480번길 10"
+    },
+    
+    {
+        "clinicName": "남구보건소",
+        "lattitude": "35.5452196",
+        "longtitude": "129.336771",
+        "phone": "052-226-2805",
+        "roadaddr": "울산 남구 삼산중로 132"
+    },
+    
+    {
+        "clinicName": "울산대학교병원",
+        "lattitude": "35.52010191",
+        "longtitude": "129.4287387",
+        "phone": "052-250-7000",
+        "roadaddr": "울산 동구 방어진순환도로 877"
+    },
+    
+    {
+        "clinicName": "동구보건소",
+        "lattitude": "35.5053163",
+        "longtitude": "129.417047",
+        "phone": "052-209-4080",
+        "roadaddr": "울산 동구 봉수로 155"
+    },
+    
+    {
+        "clinicName": "울산시티병원",
+        "lattitude": "35.58286762",
+        "longtitude": "129.3590369",
+        "phone": "052-280-9000",
+        "roadaddr": "울산 북구 산업로 1007"
+    },
+    
+    {
+        "clinicName": "북구보건소",
+        "lattitude": "35.5834459",
+        "longtitude": "129.360625",
+        "phone": "052-289-3450",
+        "roadaddr": "울산 북구 산업로 1018"
+    },
+    
+    {
+        "clinicName": "서울산보람병원",
+        "lattitude": "35.55991253",
+        "longtitude": "129.1207136",
+        "phone": "052-255-7114",
+        "roadaddr": "울산 울주군 삼남면 중평로 53"
+    },
+    
+    {
+        "clinicName": "울주군보건소",
+        "lattitude": "35.55833012",
+        "longtitude": "129.1137423",
+        "phone": "052-204-2798",
+        "roadaddr": "울산 울주군 삼남면 서향교1길 67-12"
+    },
+    
+    {
+        "clinicName": "동강병원",
+        "lattitude": "35.55340808",
+        "longtitude": "129.3019442",
+        "phone": "052-241-1114",
+        "roadaddr": "울산 중구 태화로 239"
+    },
+    
+    {
+        "clinicName": "중구보건소",
+        "lattitude": "35.5693443",
+        "longtitude": "129.350495",
+        "phone": "052-290-4300",
+        "roadaddr": "울산 중구 외솔큰길 225"
+    },
+    
+    {
+        "clinicName": "세종시보건소",
+        "lattitude": "36.60567065",
+        "longtitude": "127.2965038",
+        "phone": "044-301-2000",
+        "roadaddr": "세종특별자치시 조치원읍 건강길 16"
+    },
+    
+    {
+        "clinicName": "고려대학교구로병원",
+        "lattitude": "37.4920147",
+        "longtitude": "126.884721",
+        "phone": "02-2626-1114",
+        "roadaddr": "서울 구로구 구로동로 148"
+    },
+    
+    {
+        "clinicName": "가평군보건소",
+        "lattitude": "37.83348324",
+        "longtitude": "127.5107293",
+        "phone": "031-582-2488",
+        "roadaddr": "경기 가평군 가평읍 가화로 155-18"
+    },
+    
+    {
+        "clinicName": "HJ매그놀리아국제병원",
+        "lattitude": "37.69113952",
+        "longtitude": "127.5213749",
+        "phone": "031-589-4300",
+        "roadaddr": "경기 가평군 설악면 미사리로 267-177"
+    },
+    
+    {
+        "clinicName": "고양시덕양구보건소",
+        "lattitude": "37.65778628",
+        "longtitude": "126.8311678",
+        "phone": "031-8075-4014",
+        "roadaddr": "경기 고양시 덕양구 원당로33번길 28"
+    },
+    
+    {
+        "clinicName": "명지병원",
+        "lattitude": "37.6421083",
+        "longtitude": "126.830928",
+        "phone": "031-810-5114",
+        "roadaddr": "경기 고양시 덕양구 화수로14번길 55"
+    },
+    
+    {
+        "clinicName": "일산동구보건소",
+        "lattitude": "37.65569455",
+        "longtitude": "126.7761599",
+        "phone": "031-8075-4086",
+        "roadaddr": "경기 고양시 일산동구 중앙로 1228"
+    },
+    
+    {
+        "clinicName": "일산서구보건소",
+        "lattitude": "37.68448195",
+        "longtitude": "126.7758104",
+        "phone": "031-8075-4160",
+        "roadaddr": "경기 고양시 일산서구 일중로 54"
+    },
+    
+    {
+        "clinicName": "인제대학교 일산백병원",
+        "lattitude": "37.67436501",
+        "longtitude": "126.7503137",
+        "phone": "031-910-7114",
+        "roadaddr": "경기 고양시 일산서구 주화로 170"
+    },
+    
+    {
+        "clinicName": "국민건강보험일산병원",
+        "lattitude": "37.645555",
+        "longtitude": "126.7929829",
+        "phone": "1577-0013",
+        "roadaddr": "경기 고양시 일산동구 일산로 100"
+    },
+    
+    {
+        "clinicName": "광명성애병원",
+        "lattitude": "37.47347857",
+        "longtitude": "126.8719103",
+        "phone": "02-2680-7114",
+        "roadaddr": "경기 광명시 디지털로 36"
+    },
+    
+    {
+        "clinicName": "광명시보건소",
+        "lattitude": "37.45667753",
+        "longtitude": "126.8788515",
+        "phone": "1688-3399",
+        "roadaddr": "경기 광명시 오리로 613"
+    },
+    
+    {
+        "clinicName": "광주시보건소",
+        "lattitude": "37.41653435",
+        "longtitude": "127.2503371",
+        "phone": "031-760-2110",
+        "roadaddr": "경기 광주시 파발로 194"
+    },
+    
+    {
+        "clinicName": "참조은병원",
+        "lattitude": "37.41095554",
+        "longtitude": "127.2602224",
+        "phone": "1600-9955",
+        "roadaddr": "경기 광주시 광주대로 45"
+    },
+    
+    {
+        "clinicName": "구리보건소",
+        "lattitude": "37.60473904",
+        "longtitude": "127.1450797",
+        "phone": "031-550-8681",
+        "roadaddr": "경기 구리시 건원대로34번길 84"
+    },
+    
+    {
+        "clinicName": "한양대학교 구리병원",
+        "lattitude": "37.60130498",
+        "longtitude": "127.1323853",
+        "phone": "1644-9118",
+        "roadaddr": "경기 구리시 경춘로 153"
+    },
+    
+    {
+        "clinicName": "원광대학교 산본병원",
+        "lattitude": "37.35944684",
+        "longtitude": "126.9335778",
+        "phone": "031-390-2300",
+        "roadaddr": "경기 군포시 산본로 321"
+    },
+    
+    {
+        "clinicName": "군포시보건소",
+        "lattitude": "37.33315028",
+        "longtitude": "126.9259641",
+        "phone": "031-461-5465",
+        "roadaddr": "경기 군포시 군포로 221"
+    },
+    
+    {
+        "clinicName": "김포우리병원",
+        "lattitude": "37.63252988",
+        "longtitude": "126.7105258",
+        "phone": "031-999-1000",
+        "roadaddr": "경기 김포시 감암로 11"
+    },
+    
+    {
+        "clinicName": "뉴고려병원",
+        "lattitude": "37.64111373",
+        "longtitude": "126.6602541",
+        "phone": "031-980-9114",
+        "roadaddr": "경기 김포시 김포한강3로 283"
+    },
+    
+    {
+        "clinicName": "김포시보건소",
+        "lattitude": "37.62373367",
+        "longtitude": "126.7229479",
+        "phone": "031-980-5011",
+        "roadaddr": "경기 김포시 사우중로 108"
+    },
+    
+    {
+        "clinicName": "남양주보건소",
+        "lattitude": "37.63557388",
+        "longtitude": "127.2160779",
+        "phone": "031-590-2741",
+        "roadaddr": "경기 남양주시 경춘로 1037"
+    },
+    
+    {
+        "clinicName": "남양주풍양보건소",
+        "lattitude": "37.71048369",
+        "longtitude": "127.1894787",
+        "phone": "031-590-4771",
+        "roadaddr": "경기 남양주시 진접읍 해밀예당1로 30-39"
+    },
+    
+    {
+        "clinicName": "남양주한양병원",
+        "lattitude": "37.68235924",
+        "longtitude": "127.2043578",
+        "phone": "031-510-0114",
+        "roadaddr": "경기 남양주시 오남읍 양지로 47-55"
+    },
+    
+    {
+        "clinicName": "현대병원",
+        "lattitude": "37.71545407",
+        "longtitude": "127.1798827",
+        "phone": "031-574-9119",
+        "roadaddr": "경기 남양주시 진접읍 봉현로 21"
+    },
+    
+    {
+        "clinicName": "동두천시보건소",
+        "lattitude": "37.8966187",
+        "longtitude": "127.0516852",
+        "phone": "031-860-3395",
+        "roadaddr": "경기 동두천시 중앙로 167"
+    },
+    
+    {
+        "clinicName": "순천향대학교부속 부천병원",
+        "lattitude": "37.49877005",
+        "longtitude": "126.7629999",
+        "phone": "032-621-5114",
+        "roadaddr": "경기 부천시 조마루로 170"
+    },
+    
+    {
+        "clinicName": "가톨릭대학교 부천성모병원",
+        "lattitude": "37.48698267",
+        "longtitude": "126.7924669",
+        "phone": "1577-0675",
+        "roadaddr": "경기 부천시 소사로 327"
+    },
+    
+    {
+        "clinicName": "중원구보건소",
+        "lattitude": "37.44199193",
+        "longtitude": "127.1707497",
+        "phone": "031-729-3930",
+        "roadaddr": "경기 성남시 중원구 금상로 137"
+    },
+    
+    {
+        "clinicName": "분당구보건소",
+        "lattitude": "37.41107158",
+        "longtitude": "127.1247484",
+        "phone": "031-729-3990",
+        "roadaddr": "경기 성남시 분당구 양현로 306"
+    },
+    
+    {
+        "clinicName": "분당제생병원",
+        "lattitude": "37.38817447",
+        "longtitude": "127.121639",
+        "phone": "031-779-0000",
+        "roadaddr": "경기 성남시 분당구 서현로180번길 20"
+    },
+    
+    {
+        "clinicName": "분당차병원",
+        "lattitude": "37.41022016",
+        "longtitude": "127.1255512",
+        "phone": "1577-4488",
+        "roadaddr": "경기 성남시 분당구 야탑로 59"
+    },
+    
+    {
+        "clinicName": "수정구보건소",
+        "lattitude": "37.4442862",
+        "longtitude": "127.1441546",
+        "phone": "031-729-3870",
+        "roadaddr": "경기 성남시 수정구 수정로 218"
+    },
+    
+    {
+        "clinicName": "권선구보건소",
+        "lattitude": "37.25874424",
+        "longtitude": "126.9711281",
+        "phone": "031-228-6716",
+        "roadaddr": "경기 수원시 권선구 호매실로 22-50"
+    },
+    
+    {
+        "clinicName": "장안구보건소",
+        "lattitude": "37.30437595",
+        "longtitude": "127.010287",
+        "phone": "031-228-5715",
+        "roadaddr": "경기 수원시 장안구 송원로 101"
+    },
+    
+    {
+        "clinicName": "팔달구보건소",
+        "lattitude": "37.27148062",
+        "longtitude": "127.0125284",
+        "phone": "031-228-7716",
+        "roadaddr": "경기 수원시 팔달구 팔달산로 6"
+    },
+    
+    {
+        "clinicName": "아주대학교병원",
+        "lattitude": "37.27958828",
+        "longtitude": "127.0476114",
+        "phone": "1688-6114",
+        "roadaddr": "경기 수원시 영통구 월드컵로 164"
+    },
+    
+    {
+        "clinicName": "경기도의료원 수원병원",
+        "lattitude": "37.29185914",
+        "longtitude": "126.9963776",
+        "phone": "031-888-0114",
+        "roadaddr": "경기 수원시 장안구 수성로245번길 69"
+    },
+    
+    {
+        "clinicName": "가톨릭대학교 성빈센트병원",
+        "lattitude": "37.27807371",
+        "longtitude": "127.0274946",
+        "phone": "1577-8588",
+        "roadaddr": "경기 수원시 팔달구 중부대로 93"
+    },
+    
+    {
+        "clinicName": "동수원병원",
+        "lattitude": "37.27815482",
+        "longtitude": "127.0343142",
+        "phone": "031-2100-114",
+        "roadaddr": "경기 수원시 팔달구 중부대로 165"
+    },
+    
+    {
+        "clinicName": "신천연합병원",
+        "lattitude": "37.44454686",
+        "longtitude": "126.7893839",
+        "phone": "031-310-6300",
+        "roadaddr": "경기 시흥시 복지로 57"
+    },
+    
+    {
+        "clinicName": "시흥시화병원",
+        "lattitude": "37.35292051",
+        "longtitude": "126.7245602",
+        "phone": "031-432-2600",
+        "roadaddr": "경기 시흥시 옥구천서로 337"
+    },
+    
+    {
+        "clinicName": "시흥시보건소",
+        "lattitude": "37.44530277",
+        "longtitude": "126.7848569",
+        "phone": "031-310-5815",
+        "roadaddr": "경기 시흥시 호현로 55"
+    },
+    
+    {
+        "clinicName": "정왕보건지소",
+        "lattitude": "37.34676383",
+        "longtitude": "126.7401031",
+        "phone": "031-310-5901",
+        "roadaddr": "경기 시흥시 정왕대로233번길 19"
+    },
+    
+    {
+        "clinicName": "안산시단원보건소",
+        "lattitude": "37.32056602",
+        "longtitude": "126.815178",
+        "phone": "1666-1234",
+        "roadaddr": "경기 안산시 단원구 화랑로 250"
+    },
+    
+    {
+        "clinicName": "고려대학교안산병원",
+        "lattitude": "37.31867771",
+        "longtitude": "126.8248217",
+        "phone": "1577-7516",
+        "roadaddr": "경기 안산시 단원구 적금로 123"
+    },
+    
+    {
+        "clinicName": "한도병원",
+        "lattitude": "37.33403702",
+        "longtitude": "126.8076299",
+        "phone": "031-8040-1114",
+        "roadaddr": "경기 안산시 단원구 선부광장로 103"
+    },
+    
+    {
+        "clinicName": "근로복지공단안산병원",
+        "lattitude": "37.31686978",
+        "longtitude": "126.8740266",
+        "phone": "031-500-1114",
+        "roadaddr": "경기 안산시 상록구 구룡로 87"
+    },
+    
+    {
+        "clinicName": "경기도의료원 안성병원",
+        "lattitude": "37.01735255",
+        "longtitude": "127.2603664",
+        "phone": "031-8046-5000",
+        "roadaddr": "경기 안성시 남파로 95"
+    },
+    
+    {
+        "clinicName": "안성성모병원",
+        "lattitude": "37.00607015",
+        "longtitude": "127.2708397",
+        "phone": "1661-6227",
+        "roadaddr": "경기 안성시 시장길 58"
+    },
+    
+    {
+        "clinicName": "안성시보건소",
+        "lattitude": "37.00018933",
+        "longtitude": "127.2698167",
+        "phone": "031-678-5710",
+        "roadaddr": "경기 안성시 강변로74번길 18"
+    },
+    
+    {
+        "clinicName": "동안구보건소",
+        "lattitude": "37.39303516",
+        "longtitude": "126.9520505",
+        "phone": "031-8045-4472",
+        "roadaddr": "경기 안양시 동안구 평촌대로253번길 41"
+    },
+    
+    {
+        "clinicName": "만안구보건소",
+        "lattitude": "37.38588257",
+        "longtitude": "126.9329493",
+        "phone": "031-8045-3237",
+        "roadaddr": "경기 안양시 만안구 문예로 48"
+    },
+    
+    {
+        "clinicName": "한림대학교 성심병원",
+        "lattitude": "37.3914950",
+        "longtitude": "126.961802",
+        "phone": "031-380-1500",
+        "roadaddr": "경기 안양시 동안구 관평로170번길 22"
+    },
+    
+    {
+        "clinicName": "안양샘병원",
+        "lattitude": "37.3934028",
+        "longtitude": "126.9244774",
+        "phone": "031-467-9114",
+        "roadaddr": "경기 안양시 만안구 삼덕로 9"
+    },
+    
+    {
+        "clinicName": "양주시보건소",
+        "lattitude": "37.78564132",
+        "longtitude": "127.0466127",
+        "phone": "031-8082-4114",
+        "roadaddr": "경기 양주시 부흥로 1533"
+    },
+    
+    {
+        "clinicName": "양주예쓰병원",
+        "lattitude": "37.83756405",
+        "longtitude": "127.0646401",
+        "phone": "031-825-5000",
+        "roadaddr": "경기 양주시 회정로 103"
+    },
+    
+    {
+        "clinicName": "양평군보건소",
+        "lattitude": "37.49703578",
+        "longtitude": "127.4866853",
+        "phone": "031-773-5101",
+        "roadaddr": "경기 양평군 양평읍 마유산로 17"
+    },
+    
+    {
+        "clinicName": "양평병원",
+        "lattitude": "37.49395251",
+        "longtitude": "127.5034689",
+        "phone": "031-770-5000",
+        "roadaddr": "경기 양평군 양평읍 중앙로 129"
+    },
+    
+    {
+        "clinicName": "세종여주병원",
+        "lattitude": "37.30146732",
+        "longtitude": "127.6253476",
+        "phone": "031-880-7700",
+        "roadaddr": "경기 여주시 청심로 39"
+    },
+    
+    {
+        "clinicName": "여주시보건소",
+        "lattitude": "37.29462112",
+        "longtitude": "127.6403876",
+        "phone": "031-887-3135",
+        "roadaddr": "경기 여주시 여흥로160번길 14"
+    },
+    
+    {
+        "clinicName": "연천군보건의료원",
+        "lattitude": "38.02352722",
+        "longtitude": "127.0609901",
+        "phone": "031-839-4001",
+        "roadaddr": "경기 연천군 전곡읍 은대성로 95"
+    },
+    
+    {
+        "clinicName": "오산시보건소",
+        "lattitude": "37.15944086",
+        "longtitude": "127.07782",
+        "phone": "031-8036-6025",
+        "roadaddr": "경기 오산시 경기동로 59"
+    },
+    
+    {
+        "clinicName": "오산한국병원",
+        "lattitude": "37.14129874",
+        "longtitude": "127.0753207",
+        "phone": "1566-3534",
+        "roadaddr": "경기 오산시 밀머리로1번길 16"
+    },
+    
+    {
+        "clinicName": "기흥구보건소",
+        "lattitude": "37.27260843",
+        "longtitude": "127.1063986",
+        "phone": "1577-1122",
+        "roadaddr": "경기 용인시 기흥구 신갈로58번길 11"
+    },
+    
+    {
+        "clinicName": "수지보건소",
+        "lattitude": "37.32219168",
+        "longtitude": "127.0968379",
+        "phone": "031-324-8940",
+        "roadaddr": "경기 용인시 수지구 포은대로 435"
+    },
+    
+    {
+        "clinicName": "강남병원",
+        "lattitude": "37.27373821",
+        "longtitude": "127.1114345",
+        "phone": "031-300-0114",
+        "roadaddr": "경기 용인시 기흥구 중부대로 411"
+    },
+    
+    {
+        "clinicName": "처인구보건소",
+        "lattitude": "37.24098514",
+        "longtitude": "127.1761298",
+        "phone": "031-324-4911",
+        "roadaddr": "경기 용인시 처인구 중부대로 1199"
+    },
+    
+    {
+        "clinicName": "다보스병원",
+        "lattitude": "37.23160334",
+        "longtitude": "127.2114467",
+        "phone": "031-8021-2114",
+        "roadaddr": "경기 용인시 처인구 백옥대로1082번길 18"
+    },
+    
+    {
+        "clinicName": "연세대학교 용인세브란스병원",
+        "lattitude": "37.23915624",
+        "longtitude": "127.1888515",
+        "phone": "031-331-8888",
+        "roadaddr": "경기 용인시 처인구 금학로 225"
+    },
+    
+    {
+        "clinicName": "의왕시보건소",
+        "lattitude": "37.34376988",
+        "longtitude": "126.9721158",
+        "phone": "031-345-3541",
+        "roadaddr": "경기 의왕시 오봉로 34"
+    },
+    
+    {
+        "clinicName": "경기도의료원 의정부병원 응급실",
+        "lattitude": "37.74113515",
+        "longtitude": "127.0425458",
+        "phone": "031-828-5119",
+        "roadaddr": "경기 의정부시 흥선로 142"
+    },
+    
+    {
+        "clinicName": "의정부시보건소",
+        "lattitude": "37.73615205",
+        "longtitude": "127.0395162",
+        "phone": "031-870-6001",
+        "roadaddr": "경기 의정부시 범골로 131"
+    },
+    
+    {
+        "clinicName": "가톨릭대학교 의정부성모병원",
+        "lattitude": "37.75870766",
+        "longtitude": "127.0777853",
+        "phone": "1661-7500",
+        "roadaddr": "경기 의정부시 천보로 271"
+    },
+    
+    {
+        "clinicName": "경기도의료원 이천병원",
+        "lattitude": "37.28279555",
+        "longtitude": "127.4330435",
+        "phone": "031-630-4200",
+        "roadaddr": "경기 이천시 경충대로 2742"
+    },
+    
+    {
+        "clinicName": "이천시보건소",
+        "lattitude": "37.28896213",
+        "longtitude": "127.4523403",
+        "phone": "031-644-4071",
+        "roadaddr": "경기 이천시 증신로153번길 13"
+    },
+    
+    {
+        "clinicName": "파주시보건소",
+        "lattitude": "37.75635056",
+        "longtitude": "126.7739143",
+        "phone": "031-940-4800",
+        "roadaddr": "경기 파주시 후곡로 13"
+    },
+    
+    {
+        "clinicName": "경기도의료원 파주병원",
+        "lattitude": "37.75497862",
+        "longtitude": "126.7802277",
+        "phone": "031-940-9100",
+        "roadaddr": "경기 파주시 중앙로 207"
+    },
+    
+    {
+        "clinicName": "평택성모병원",
+        "lattitude": "37.00837521",
+        "longtitude": "127.0743242",
+        "phone": "1800-8800",
+        "roadaddr": "경기 평택시 평택로 284"
+    },
+    
+    {
+        "clinicName": "평택보건소",
+        "lattitude": "36.99093143",
+        "longtitude": "127.1118866",
+        "phone": "031-8024-5559",
+        "roadaddr": "경기 평택시 평택5로 56"
+    },
+    
+    {
+        "clinicName": "안중보건지소",
+        "lattitude": "36.9860012",
+        "longtitude": "126.9314598",
+        "phone": "031-8024-8610",
+        "roadaddr": "경기 평택시 안중읍 안현로 400"
+    },
+    
+    {
+        "clinicName": "박병원",
+        "lattitude": "37.0482376",
+        "longtitude": "127.0571466",
+        "phone": "1800-6119",
+        "roadaddr": "경기 평택시 송탄로 33"
+    },
+    
+    {
+        "clinicName": "송탄보건소",
+        "lattitude": "37.0661897",
+        "longtitude": "127.066048",
+        "phone": "031-8024-7273",
+        "roadaddr": "경기 평택시 서정로 295"
+    },
+    
+    {
+        "clinicName": "포천시보건소",
+        "lattitude": "37.90077173",
+        "longtitude": "127.2012445",
+        "phone": "031-538-3600",
+        "roadaddr": "경기 포천시 포천로 1612"
+    },
+    
+    {
+        "clinicName": "경기도의료원 포천병원",
+        "lattitude": "37.90326331",
+        "longtitude": "127.1983177",
+        "phone": "031-539-9114",
+        "roadaddr": "경기 포천시 포천로 1648"
+    },
+    
+    {
+        "clinicName": "하남시보건소",
+        "lattitude": "37.53908233",
+        "longtitude": "127.2155299",
+        "phone": "031-790-6555",
+        "roadaddr": "경기 하남시 대청로 10"
+    },
+    
+    {
+        "clinicName": "화성중앙종합병원",
+        "lattitude": "37.13135226",
+        "longtitude": "126.9108739",
+        "phone": "031-352-8114",
+        "roadaddr": "경기 화성시 향남읍 발안로 5"
+    },
+    
+    {
+        "clinicName": "화성시보건소",
+        "lattitude": "37.12924967",
+        "longtitude": "126.9045563",
+        "phone": "031-369-2551",
+        "roadaddr": "경기 화성시 향남읍 3.1만세로 1055"
+    },
+    
+    {
+        "clinicName": "한림대학교 동탄성심병원",
+        "lattitude": "37.21664909",
+        "longtitude": "127.0800059",
+        "phone": "1522-2500",
+        "roadaddr": "경기 화성시 큰재봉길 7"
+    },
+    
+    {
+        "clinicName": "강원도강릉의료원",
+        "lattitude": "37.74927162",
+        "longtitude": "128.8887999",
+        "phone": "033-610-1200",
+        "roadaddr": "강원 강릉시 경강로 2007"
+    },
+    
+    {
+        "clinicName": "강릉아산병원",
+        "lattitude": "37.81842811",
+        "longtitude": "128.8577156",
+        "phone": "033-610-3114",
+        "roadaddr": "강원 강릉시 사천면 방동길 38"
+    },
+    
+    {
+        "clinicName": "강릉동인병원",
+        "lattitude": "37.77433381",
+        "longtitude": "128.9070921",
+        "phone": "033-651-6161",
+        "roadaddr": "강원 강릉시 강릉대로419번길 42"
+    },
+    
+    {
+        "clinicName": "강릉고려병원",
+        "lattitude": "37.75901418",
+        "longtitude": "128.8998406",
+        "phone": "033-649-0118",
+        "roadaddr": "강원 강릉시 옥가로 30"
+    },
+    
+    {
+        "clinicName": "강릉시 보건소",
+        "lattitude": "37.74281029",
+        "longtitude": "128.8827502",
+        "phone": "033-660-2018",
+        "roadaddr": "강원 강릉시 남부로17번길 38"
+    },
+    
+    {
+        "clinicName": "고성군보건소",
+        "lattitude": "34.96945662",
+        "longtitude": "128.3153834",
+        "phone": "055-670-4001",
+        "roadaddr": "경남 고성군 고성읍 남포로79번길 103-3"
+    },
+    
+    {
+        "clinicName": "동해동인병원",
+        "lattitude": "37.53005749",
+        "longtitude": "129.107391",
+        "phone": "033-530-0114",
+        "roadaddr": "강원 동해시 하평로 26"
+    },
+    
+    {
+        "clinicName": "근로복지공단 동해병원",
+        "lattitude": "37.53232255",
+        "longtitude": "129.1058576",
+        "phone": "033-530-3100",
+        "roadaddr": "강원 동해시 하평로 11"
+    },
+    
+    {
+        "clinicName": "강원도삼척의료원",
+        "lattitude": "37.44026751",
+        "longtitude": "129.1636885",
+        "phone": "033-572-1141",
+        "roadaddr": "강원 삼척시 오십천로 418"
+    },
+    
+    {
+        "clinicName": "삼척시보건소",
+        "lattitude": "37.44373348",
+        "longtitude": "129.1721095",
+        "phone": "033-573-2003",
+        "roadaddr": "강원 삼척시 척주로 76"
+    },
+    
+    {
+        "clinicName": "강원도속초의료원",
+        "lattitude": "38.21622896",
+        "longtitude": "128.5891185",
+        "phone": "033-630-6000",
+        "roadaddr": "강원 속초시 영랑호반길 3"
+    },
+    
+    {
+        "clinicName": "속초보광병원",
+        "lattitude": "38.19801692",
+        "longtitude": "128.5783885",
+        "phone": "033-639-8500",
+        "roadaddr": "강원 속초시 중앙로 11"
+    },
+    
+    {
+        "clinicName": "양구성심병원",
+        "lattitude": "38.10478007",
+        "longtitude": "127.9911981",
+        "phone": "033-480-8800",
+        "roadaddr": "강원 양구군 양구읍 중심로 160"
+    },
+    
+    {
+        "clinicName": "양양군보건소",
+        "lattitude": "38.07777735",
+        "longtitude": "128.6274491",
+        "phone": "033-670-2550",
+        "roadaddr": "강원 양양군 양양읍 양양로 9-5"
+    },
+    
+    {
+        "clinicName": "강원도영월의료원",
+        "lattitude": "37.18658694",
+        "longtitude": "128.4653038",
+        "phone": "033-370-9101",
+        "roadaddr": "강원 영월군 영월읍 중앙1로 59"
+    },
+    
+    {
+        "clinicName": "영월군보건소",
+        "lattitude": "37.18433413",
+        "longtitude": "128.4635846",
+        "phone": "033-372-4000",
+        "roadaddr": "강원 영월군 영월읍 하송로 44"
+    },
+    
+    {
+        "clinicName": "연세대학교 원주세브란스기독병원",
+        "lattitude": "37.3479016",
+        "longtitude": "127.9455479",
+        "phone": "033-741-0114",
+        "roadaddr": "강원 원주시 일산로 20"
+    },
+    
+    {
+        "clinicName": "원주시보건소",
+        "lattitude": "37.35152437",
+        "longtitude": "127.9468032",
+        "phone": "033-737-4011",
+        "roadaddr": "강원 원주시 원일로 139"
+    },
+    
+    {
+        "clinicName": "강원도원주의료원",
+        "lattitude": "37.33271067",
+        "longtitude": "127.9492739",
+        "phone": "033-760-4500",
+        "roadaddr": "강원 원주시 서원대로 387"
+    },
+    
+    {
+        "clinicName": "인제군보건소",
+        "lattitude": "38.06329188",
+        "longtitude": "128.1685446",
+        "phone": "033-461-2425",
+        "roadaddr": "강원 인제군 인제읍 인제로140번길 34"
+    },
+    
+    {
+        "clinicName": "근로복지공단 정선병원",
+        "lattitude": "37.38306834",
+        "longtitude": "128.6586962",
+        "phone": "033-560-7100",
+        "roadaddr": "강원 정선군 정선읍 봉양1길 145"
+    },
+    
+    {
+        "clinicName": "정선군보건소",
+        "lattitude": "37.38004251",
+        "longtitude": "128.6714004",
+        "phone": "033-563-0034",
+        "roadaddr": "강원 정선군 정선읍 녹송로 33"
+    },
+    
+    {
+        "clinicName": "철원병원",
+        "lattitude": "38.15032147",
+        "longtitude": "127.3080295",
+        "phone": "033-452-5011",
+        "roadaddr": "강원 철원군 갈말읍 명성로 208"
+    },
+    
+    {
+        "clinicName": "강원대학교병원",
+        "lattitude": "37.87497063",
+        "longtitude": "127.7444842",
+        "phone": "033-258-2000",
+        "roadaddr": "강원 춘천시 백령로 156"
+    },
+    
+    {
+        "clinicName": "한림대학교 춘천성심병원",
+        "lattitude": "37.884135",
+        "longtitude": "127.7398932",
+        "phone": "033-240-5000",
+        "roadaddr": "강원 춘천시 삭주로 77"
+    },
+    
+    {
+        "clinicName": "춘천시보건소",
+        "lattitude": "37.8755323",
+        "longtitude": "127.720235",
+        "phone": "033-250-3550",
+        "roadaddr": "강원 춘천시 중앙로 135"
+    },
+    
+    {
+        "clinicName": "태백시보건소",
+        "lattitude": "37.17662245",
+        "longtitude": "128.992455",
+        "phone": "033-552-4000",
+        "roadaddr": "강원 태백시 태백로 905"
+    },
+    
+    {
+        "clinicName": "근로복지공단 태백병원",
+        "lattitude": "37.10404368",
+        "longtitude": "129.0042876",
+        "phone": "033-580-3114",
+        "roadaddr": "강원 태백시 보드미길 8"
+    },
+    
+    {
+        "clinicName": "평창군보건의료원",
+        "lattitude": "37.36894808",
+        "longtitude": "128.390742",
+        "phone": "033-332-4000",
+        "roadaddr": "강원 평창군 평창읍 노성로 11"
+    },
+    
+    {
+        "clinicName": "홍천아산병원",
+        "lattitude": "37.69082082",
+        "longtitude": "127.8949075",
+        "phone": "033-430-5151",
+        "roadaddr": "강원 홍천군 홍천읍 산림공원1길 17"
+    },
+    
+    {
+        "clinicName": "홍천군보건소",
+        "lattitude": "37.6902028",
+        "longtitude": "127.8769144",
+        "phone": "033-434-4000",
+        "roadaddr": "강원 홍천군 홍천읍 신장대로 5"
+    },
+    
+    {
+        "clinicName": "화천군보건의료원",
+        "lattitude": "38.10725375",
+        "longtitude": "127.7090913",
+        "phone": "033-441-4000",
+        "roadaddr": "강원 화천군 화천읍 강변로 111"
+    },
+    
+    {
+        "clinicName": "횡성대성병원",
+        "lattitude": "37.47845899",
+        "longtitude": "127.9799488",
+        "phone": "033-343-0901",
+        "roadaddr": "강원 횡성군 횡성읍 횡성로 275"
+    },
+    
+    {
+        "clinicName": "횡성군보건소",
+        "lattitude": "37.48699526",
+        "longtitude": "127.9844472",
+        "phone": "033-340-5622",
+        "roadaddr": "강원 횡성군 횡성읍 횡성로 379"
+    },
+    
+    {
+        "clinicName": "괴산군보건소",
+        "lattitude": "36.80803075",
+        "longtitude": "127.7966201",
+        "phone": "043-832-4000",
+        "roadaddr": "충북 괴산군 괴산읍 동진천길 43"
+    },
+    
+    {
+        "clinicName": "괴산성모병원",
+        "lattitude": "36.81544514",
+        "longtitude": "127.7842458",
+        "phone": "043-830-5400",
+        "roadaddr": "충북 괴산군 괴산읍 임꺽정로 116"
+    },
+    
+    {
+        "clinicName": "단양군보건소",
+        "lattitude": "36.98157919",
+        "longtitude": "128.3500905",
+        "phone": "043-420-3203",
+        "roadaddr": "충북 단양군 단양읍 삼봉로 53"
+    },
+    
+    {
+        "clinicName": "단양군립노인요양병원",
+        "lattitude": "36.98716191",
+        "longtitude": "128.3687316",
+        "phone": "043-423-8844",
+        "roadaddr": "충북 단양군 단양읍 별곡6길 10"
+    },
+    
+    {
+        "clinicName": "보은한양병원",
+        "lattitude": "36.48320711",
+        "longtitude": "127.7181384",
+        "phone": "043-544-1500",
+        "roadaddr": "충북 보은군 보은읍 보은로 102"
+    },
+    
+    {
+        "clinicName": "보은군보건소",
+        "lattitude": "36.48656731",
+        "longtitude": "127.7162143",
+        "phone": "043-543-2825",
+        "roadaddr": "충북 보은군 보은읍 동광길 50"
+    },
+    
+    {
+        "clinicName": "영동병원",
+        "lattitude": "36.1851553",
+        "longtitude": "127.780760",
+        "phone": "043-740-9000",
+        "roadaddr": "충북 영동군 영동읍 대학로 106"
+    },
+    
+    {
+        "clinicName": "영동군보건소",
+        "lattitude": "36.16849538",
+        "longtitude": "127.775954",
+        "phone": "043-740-5585",
+        "roadaddr": "충북 영동군 영동읍 반곡동길 7"
+    },
+    
+    {
+        "clinicName": "옥천성모병원",
+        "lattitude": "36.31334633",
+        "longtitude": "127.5719789",
+        "phone": "043-730-7000",
+        "roadaddr": "충북 옥천군 옥천읍 성왕로 1195"
+    },
+    
+    {
+        "clinicName": "옥천군보건소",
+        "lattitude": "36.30438356",
+        "longtitude": "127.5700297",
+        "phone": "043-730-2114",
+        "roadaddr": "충북 옥천군 옥천읍 삼양로8길 10"
+    },
+    
+    {
+        "clinicName": "음성군보건소",
+        "lattitude": "36.92882999",
+        "longtitude": "127.6888589",
+        "phone": "043-872-2136",
+        "roadaddr": "충북 음성군 음성읍 중앙로 49"
+    },
+    
+    {
+        "clinicName": "금왕태성병원",
+        "lattitude": "36.99753795",
+        "longtitude": "127.5985464",
+        "phone": "043-883-8800",
+        "roadaddr": "충북 음성군 금왕읍 음성로1230번길 10"
+    },
+    
+    {
+        "clinicName": "제천서울병원",
+        "lattitude": "37.13852536",
+        "longtitude": "128.2061104",
+        "phone": "043-642-7606",
+        "roadaddr": "충북 제천시 숭문로 57"
+    },
+    
+    {
+        "clinicName": "제천시보건소",
+        "lattitude": "37.14901859",
+        "longtitude": "128.2157984",
+        "phone": "043-646-2720",
+        "roadaddr": "충북 제천시 의림대로 242"
+    },
+    
+    {
+        "clinicName": "증평군보건소",
+        "lattitude": "36.77434036",
+        "longtitude": "127.586694",
+        "phone": "043-835-4220",
+        "roadaddr": "충북 증평군 증평읍 보건복지로 64-1"
+    },
+    
+    {
+        "clinicName": "진천성모병원",
+        "lattitude": "36.85845953",
+        "longtitude": "127.4405111",
+        "phone": "043-533-1711",
+        "roadaddr": "충북 진천군 진천읍 중앙북로 36"
+    },
+    
+    {
+        "clinicName": "진천군보건소",
+        "lattitude": "36.86061181",
+        "longtitude": "127.4396566",
+        "phone": "043-539-7301",
+        "roadaddr": "충북 진천군 진천읍 중앙북1길 11-8"
+    },
+    
+    {
+        "clinicName": "상당보건소",
+        "lattitude": "36.58832244",
+        "longtitude": "127.5061684",
+        "phone": "043-201-3117",
+        "roadaddr": "충북 청주시 상당구 남일면 단재로 466"
+    },
+    
+    {
+        "clinicName": "청주한국병원",
+        "lattitude": "36.61943924",
+        "longtitude": "127.4965779",
+        "phone": "043-222-7000",
+        "roadaddr": "충북 청주시 상당구 단재로 106"
+    },
+    
+    {
+        "clinicName": "서원보건소",
+        "lattitude": "36.63765792",
+        "longtitude": "127.4702371",
+        "phone": "043-201-3220",
+        "roadaddr": "충북 청주시 서원구 사직대로 227"
+    },
+    
+    {
+        "clinicName": "충북대학교병원",
+        "lattitude": "36.62416728",
+        "longtitude": "127.4614339",
+        "phone": "043-269-6114",
+        "roadaddr": "충북 청주시 서원구 1순환로 776"
+    },
+    
+    {
+        "clinicName": "청주의료원",
+        "lattitude": "36.640297",
+        "longtitude": "127.4732778",
+        "phone": "043-279-0114",
+        "roadaddr": "충북 청주시 서원구 흥덕로 48"
+    },
+    
+    {
+        "clinicName": "청원보건소",
+        "lattitude": "36.71031436",
+        "longtitude": "127.4307674",
+        "phone": "043-201-3421",
+        "roadaddr": "충북 청주시 청원구 오창읍 과학산업3로 238"
+    },
+    
+    {
+        "clinicName": "청주성모병원",
+        "lattitude": "36.67375952",
+        "longtitude": "127.4855577",
+        "phone": "043-219-8000",
+        "roadaddr": "충북 청주시 청원구 주성로 173-19"
+    },
+    
+    {
+        "clinicName": "흥덕보건소 본관",
+        "lattitude": "36.63015834",
+        "longtitude": "127.4265195",
+        "phone": "043-201-3580",
+        "roadaddr": "충북 청주시 흥덕구 비하로12번길 46"
+    },
+    
+    {
+        "clinicName": "충주시보건소",
+        "lattitude": "36.97084583",
+        "longtitude": "127.9280116",
+        "phone": "043-850-3411",
+        "roadaddr": "충북 충주시 사직산21길 34"
+    },
+    
+    {
+        "clinicName": "충청북도충주의료원",
+        "lattitude": "36.9795791",
+        "longtitude": "127.9703509",
+        "phone": "043-871-0114",
+        "roadaddr": "충북 충주시 안림로 239-50"
+    },
+    
+    {
+        "clinicName": "건국대학교 충주병원",
+        "lattitude": "36.97897565",
+        "longtitude": "127.9286359",
+        "phone": "043-840-8200",
+        "roadaddr": "충북 충주시 국원대로 82"
+    },
+    
+    {
+        "clinicName": "충청남도공주의료원",
+        "lattitude": "36.45905467",
+        "longtitude": "127.1092168",
+        "phone": "041-962-1111",
+        "roadaddr": "충남 공주시 무령로 77"
+    },
+    
+    {
+        "clinicName": "공주시보건소",
+        "lattitude": "36.45711877",
+        "longtitude": "127.1206553",
+        "phone": "1899-0088",
+        "roadaddr": "충남 공주시 봉황로 123"
+    },
+    
+    {
+        "clinicName": "새금산병원",
+        "lattitude": "36.10403158",
+        "longtitude": "127.4962027",
+        "phone": "041-754-8272",
+        "roadaddr": "충남 금산군 금산읍 비단로 183"
+    },
+    
+    {
+        "clinicName": "금산군 보건소",
+        "lattitude": "36.11222412",
+        "longtitude": "127.4921314",
+        "phone": "041-750-4311",
+        "roadaddr": "충남 금산군 금산읍 금산로 1559"
+    },
+    
+    {
+        "clinicName": "백제병원",
+        "lattitude": "36.19258723",
+        "longtitude": "127.0942631",
+        "phone": "041-733-2191",
+        "roadaddr": "충남 논산시 시민로294번길 14"
+    },
+    
+    {
+        "clinicName": "논산시보건소",
+        "lattitude": "36.19625082",
+        "longtitude": "127.1038284",
+        "phone": "041-746-8011",
+        "roadaddr": "충남 논산시 논산대로 382"
+    },
+    
+    {
+        "clinicName": "당진종합병원",
+        "lattitude": "36.90439903",
+        "longtitude": "126.6843602",
+        "phone": "041-357-0100",
+        "roadaddr": "충남 당진시 반촌로 5-15"
+    },
+    
+    {
+        "clinicName": "당진시보건소",
+        "lattitude": "36.88737373",
+        "longtitude": "126.6300056",
+        "phone": "1522-3113",
+        "roadaddr": "충남 당진시 서부로 56"
+    },
+    
+    {
+        "clinicName": "보령시보건소",
+        "lattitude": "36.32431861",
+        "longtitude": "126.6020616",
+        "phone": "041-930-0900",
+        "roadaddr": "충남 보령시 남포면 보령남로 234"
+    },
+    
+    {
+        "clinicName": "보령아산병원",
+        "lattitude": "36.38115274",
+        "longtitude": "126.6228291",
+        "phone": "041-930-5114",
+        "roadaddr": "충남 보령시 죽성로 136"
+    },
+    
+    {
+        "clinicName": "건양대학교 부여병원",
+        "lattitude": "36.27555548",
+        "longtitude": "126.9016973",
+        "phone": "041-837-1200",
+        "roadaddr": "충남 부여군 부여읍 계백로 200"
+    },
+    
+    {
+        "clinicName": "부여군보건소",
+        "lattitude": "36.2830666",
+        "longtitude": "126.909288",
+        "phone": "041-830-8600",
+        "roadaddr": "충남 부여군 부여읍 성왕로 205"
+    },
+    
+    {
+        "clinicName": "충청남도서산의료원",
+        "lattitude": "36.77553639",
+        "longtitude": "126.4651687",
+        "phone": "041-689-7000",
+        "roadaddr": "충남 서산시 중앙로 149"
+    },
+    
+    {
+        "clinicName": "서산시보건소",
+        "lattitude": "36.77449376",
+        "longtitude": "126.4445117",
+        "phone": "041-661-8118",
+        "roadaddr": "충남 서산시 호수공원6로 6"
+    },
+    
+    {
+        "clinicName": "서해병원",
+        "lattitude": "36.08449335",
+        "longtitude": "126.6875811",
+        "phone": "041-951-8282",
+        "roadaddr": "충남 서천군 서천읍 서천로 184"
+    },
+    
+    {
+        "clinicName": "서천군보건소",
+        "lattitude": "36.08239009",
+        "longtitude": "126.68973",
+        "phone": "041-950-6700",
+        "roadaddr": "충남 서천군 서천읍 사곡길 26"
+    },
+    
+    {
+        "clinicName": "아산충무병원",
+        "lattitude": "36.77931051",
+        "longtitude": "127.020043",
+        "phone": "041-536-6666",
+        "roadaddr": "충남 아산시 문화로 381"
+    },
+    
+    {
+        "clinicName": "예산종합병원",
+        "lattitude": "36.69103267",
+        "longtitude": "126.8380843",
+        "phone": "041-330-4000",
+        "roadaddr": "충남 예산군 예산읍 금오대로 94"
+    },
+    
+    {
+        "clinicName": "예산군보건소",
+        "lattitude": "36.68097697",
+        "longtitude": "126.8441614",
+        "phone": "041-339-8993",
+        "roadaddr": "충남 예산군 예산읍 군청로 22"
+    },
+    
+    {
+        "clinicName": "단국대학교병원",
+        "lattitude": "36.8419199",
+        "longtitude": "127.1723683",
+        "phone": "1588-0063",
+        "roadaddr": "충남 천안시 동남구 망향로 201"
+    },
+    
+    {
+        "clinicName": "순천향대학교부속 천안병원",
+        "lattitude": "36.80272116",
+        "longtitude": "127.1359328",
+        "phone": "041-570-2114",
+        "roadaddr": "충남 천안시 동남구 순천향6길 31"
+    },
+    
+    {
+        "clinicName": "천안충무병원",
+        "lattitude": "36.79739507",
+        "longtitude": "127.1315804",
+        "phone": "041-570-7555",
+        "roadaddr": "충남 천안시 서북구 다가말3길 8"
+    },
+    
+    {
+        "clinicName": "충청남도천안의료원",
+        "lattitude": "36.77566295",
+        "longtitude": "127.1791525",
+        "phone": "041-570-7114",
+        "roadaddr": "충남 천안시 동남구 충절로 537"
+    },
+    
+    {
+        "clinicName": "청양군보건의료원",
+        "lattitude": "36.45534353",
+        "longtitude": "126.8045293",
+        "phone": "041-942-3401",
+        "roadaddr": "충남 청양군 청양읍 칠갑산로7길 54"
+    },
+    
+    {
+        "clinicName": "태안군보건의료원",
+        "lattitude": "36.75184977",
+        "longtitude": "126.323199",
+        "phone": "041-671-5315",
+        "roadaddr": "충남 태안군 태안읍 서해로 1952-16"
+    },
+    
+    {
+        "clinicName": "홍성의료원",
+        "lattitude": "36.59938414",
+        "longtitude": "126.6744311",
+        "phone": "041-630-6114",
+        "roadaddr": "충남 홍성군 홍성읍 조양로 224"
+    },
+    
+    {
+        "clinicName": "홍성군보건소",
+        "lattitude": "36.59671054",
+        "longtitude": "126.6631102",
+        "phone": "041-632-2588",
+        "roadaddr": "충남 홍성군 홍성읍 문화로 106"
+    },
+    
+    {
+        "clinicName": "고창군보건소",
+        "lattitude": "35.44383048",
+        "longtitude": "126.6832387",
+        "phone": "063-560-8773",
+        "roadaddr": "전북 고창군 고창읍 전봉준로 90"
+    },
+    
+    {
+        "clinicName": "전라북도 군산의료원",
+        "lattitude": "35.95497221",
+        "longtitude": "126.7118972",
+        "phone": "063-472-5000",
+        "roadaddr": "전북 군산시 의료원로 27"
+    },
+    
+    {
+        "clinicName": "동군산병원",
+        "lattitude": "35.9774314",
+        "longtitude": "126.7371977",
+        "phone": "063-440-0300",
+        "roadaddr": "전북 군산시 조촌로 149"
+    },
+    
+    {
+        "clinicName": "김제우석병원",
+        "lattitude": "35.8072097",
+        "longtitude": "126.880196",
+        "phone": "063-540-5114",
+        "roadaddr": "전북 김제시 서암4길 45"
+    },
+    
+    {
+        "clinicName": "김제시보건소",
+        "lattitude": "35.80082282",
+        "longtitude": "126.8833188",
+        "phone": "063-540-1300",
+        "roadaddr": "전북 김제시 성산길 138"
+    },
+    
+    {
+        "clinicName": "전라북도 남원의료원",
+        "lattitude": "35.43190718",
+        "longtitude": "127.4072015",
+        "phone": "063-620-1114",
+        "roadaddr": "전북 남원시 충정로 365"
+    },
+    
+    {
+        "clinicName": "남원시보건소",
+        "lattitude": "35.39756676",
+        "longtitude": "127.3644156",
+        "phone": "063-625-4000",
+        "roadaddr": "전북 남원시 요천로 1285"
+    },
+    
+    {
+        "clinicName": "무주군보건의료원",
+        "lattitude": "36.00586421",
+        "longtitude": "127.6716623",
+        "phone": "063-320-8314",
+        "roadaddr": "전북 무주군 무주읍 한풍루로 413"
+    },
+    
+    {
+        "clinicName": "부안군보건소",
+        "lattitude": "35.72278043",
+        "longtitude": "126.7355344",
+        "phone": "063-584-1261",
+        "roadaddr": "전북 부안군 부안읍 오리정로 124"
+    },
+    
+    {
+        "clinicName": "부안성모병원",
+        "lattitude": "35.72481508",
+        "longtitude": "126.7345241",
+        "phone": "063-581-5100",
+        "roadaddr": "전북 부안군 부안읍 오정2길 24"
+    },
+    
+    {
+        "clinicName": "순창군보건의료원",
+        "lattitude": "35.36713694",
+        "longtitude": "127.1438491",
+        "phone": "063-650-5322",
+        "roadaddr": "전북 순창군 순창읍 교성로 135"
+    },
+    
+    {
+        "clinicName": "고려병원",
+        "lattitude": "35.9096973",
+        "longtitude": "127.074610",
+        "phone": "063-290-0114",
+        "roadaddr": "전북 완주군 삼례읍 동학로 21"
+    },
+    
+    {
+        "clinicName": "완주군보건소",
+        "lattitude": "35.92125132",
+        "longtitude": "127.092646",
+        "phone": "063-290-3039",
+        "roadaddr": "전북 완주군 삼례읍 삼봉로 215-20"
+    },
+    
+    {
+        "clinicName": "원광대학교 산본병원",
+        "lattitude": "37.35944684",
+        "longtitude": "126.9335778",
+        "phone": "031-390-2300",
+        "roadaddr": "경기 군포시 산본로 321"
+    },
+    
+    {
+        "clinicName": "익산병원",
+        "lattitude": "35.96167969",
+        "longtitude": "126.9664994",
+        "phone": "063-840-9114",
+        "roadaddr": "전북 익산시 무왕로 969"
+    },
+    
+    {
+        "clinicName": "익산시보건소",
+        "lattitude": "35.96105601",
+        "longtitude": "126.9664154",
+        "phone": "1577-0072",
+        "roadaddr": "전북 익산시 무왕로 975"
+    },
+    
+    {
+        "clinicName": "임실군보건의료원",
+        "lattitude": "35.61249509",
+        "longtitude": "127.2869756",
+        "phone": "063-640-3320",
+        "roadaddr": "전북 임실군 임실읍 호국로 1680"
+    },
+    
+    {
+        "clinicName": "장수군보건의료원",
+        "lattitude": "35.654651",
+        "longtitude": "127.5201404",
+        "phone": "063-351-8000",
+        "roadaddr": "전북 장수군 장수읍 장천로 247"
+    },
+    
+    {
+        "clinicName": "전주예수병원",
+        "lattitude": "35.81440023",
+        "longtitude": "127.13325",
+        "phone": "063-230-8114",
+        "roadaddr": "전북 전주시 완산구 서원로 365"
+    },
+    
+    {
+        "clinicName": "대자인병원",
+        "lattitude": "35.84600318",
+        "longtitude": "127.1533872",
+        "phone": "063-240-2000",
+        "roadaddr": "전북 전주시 덕진구 견훤로 390"
+    },
+    
+    {
+        "clinicName": "전주병원",
+        "lattitude": "35.81502577",
+        "longtitude": "127.1247972",
+        "phone": "063-220-7200",
+        "roadaddr": "전북 전주시 완산구 한두평3길 13"
+    },
+    
+    {
+        "clinicName": "전주시보건소",
+        "lattitude": "35.81540236",
+        "longtitude": "127.1427367",
+        "phone": "063-281-6200",
+        "roadaddr": "전북 전주시 완산구 전라감영로 33"
+    },
+    
+    {
+        "clinicName": "정읍아산병원",
+        "lattitude": "35.5889963",
+        "longtitude": "126.823461",
+        "phone": "063-530-6114",
+        "roadaddr": "전북 정읍시 충정로 606-22"
+    },
+    
+    {
+        "clinicName": "정읍시보건소",
+        "lattitude": "35.57798431",
+        "longtitude": "126.8545216",
+        "phone": "063-539-6138",
+        "roadaddr": "전북 정읍시 수성1로 61"
+    },
+    
+    {
+        "clinicName": "진안군의료원",
+        "lattitude": "35.79518583",
+        "longtitude": "127.4320697",
+        "phone": "063-430-7000",
+        "roadaddr": "전북 진안군 진안읍 진무로 1145"
+    },
+    
+    {
+        "clinicName": "진안군보건소",
+        "lattitude": "35.79730671",
+        "longtitude": "127.4347583",
+        "phone": "063-430-8560",
+        "roadaddr": "전북 진안군 진안읍 진무로 1189"
+    },
+    
+    {
+        "clinicName": "전라남도강진의료원",
+        "lattitude": "34.63681868",
+        "longtitude": "126.757901",
+        "phone": "061-433-2167",
+        "roadaddr": "전남 강진군 강진읍 탐진로 5"
+    },
+    
+    {
+        "clinicName": "강진군보건소",
+        "lattitude": "34.63813602",
+        "longtitude": "126.7755134",
+        "phone": "061-430-3532",
+        "roadaddr": "전남 강진군 강진읍 목리길 11"
+    },
+    
+    {
+        "clinicName": "고흥종합병원",
+        "lattitude": "34.62106285",
+        "longtitude": "127.2940316",
+        "phone": "061-835-6000",
+        "roadaddr": "전남 고흥군 고흥읍 고흥로 1935"
+    },
+    
+    {
+        "clinicName": "고흥군보건소",
+        "lattitude": "34.59252082",
+        "longtitude": "127.2685284",
+        "phone": "061-830-5561",
+        "roadaddr": "전남 고흥군 고흥읍 등암3길 5"
+    },
+    
+    {
+        "clinicName": "녹동현대병원",
+        "lattitude": "34.54622184",
+        "longtitude": "127.1457207",
+        "phone": "061-840-1200",
+        "roadaddr": "전남 고흥군 도양읍 차경구렁목길 215"
+    },
+    
+    {
+        "clinicName": "곡성사랑병원",
+        "lattitude": "35.27627125",
+        "longtitude": "127.2879796",
+        "phone": "061-360-6000",
+        "roadaddr": "전남 곡성군 곡성읍 곡성로 761"
+    },
+    
+    {
+        "clinicName": "곡성군보건의료원",
+        "lattitude": "35.27883039",
+        "longtitude": "127.2968293",
+        "phone": "061-362-5060",
+        "roadaddr": "전남 곡성군 곡성읍 곡성로 854"
+    },
+    
+    {
+        "clinicName": "광양사랑병원",
+        "lattitude": "34.93614692",
+        "longtitude": "127.6969498",
+        "phone": "061-797-7000",
+        "roadaddr": "전남 광양시 공영로 71"
+    },
+    
+    {
+        "clinicName": "광양시보건소",
+        "lattitude": "34.98104529",
+        "longtitude": "127.5835389",
+        "phone": "061-797-4005",
+        "roadaddr": "전남 광양시 광양읍 인덕로 1100"
+    },
+    
+    {
+        "clinicName": "구례병원",
+        "lattitude": "35.21589955",
+        "longtitude": "127.4640581",
+        "phone": "061-780-3300",
+        "roadaddr": "전남 구례군 구례읍 동편제길 4"
+    },
+    
+    {
+        "clinicName": "구례군보건의료원",
+        "lattitude": "35.21602759",
+        "longtitude": "127.460977",
+        "phone": "061-780-2006",
+        "roadaddr": "전남 구례군 구례읍 동편제길 30"
+    },
+    
+    {
+        "clinicName": "나주종합병원",
+        "lattitude": "35.0364452",
+        "longtitude": "126.7215144",
+        "phone": "061-330-6114",
+        "roadaddr": "전남 나주시 영산로 5419"
+    },
+    
+    {
+        "clinicName": "나주시보건소",
+        "lattitude": "34.99523173",
+        "longtitude": "126.7081723",
+        "phone": "061-339-2121",
+        "roadaddr": "전남 나주시 풍물시장2길 57-32"
+    },
+    
+    {
+        "clinicName": "담양사랑병원",
+        "lattitude": "35.31525768",
+        "longtitude": "126.9826341",
+        "phone": "061-380-9000",
+        "roadaddr": "전남 담양군 담양읍 천변7길 19"
+    },
+    
+    {
+        "clinicName": "담양군보건소",
+        "lattitude": "35.32504237",
+        "longtitude": "126.9812374",
+        "phone": "061-383-4000",
+        "roadaddr": "전남 담양군 담양읍 완동길 10-11"
+    },
+    
+    {
+        "clinicName": "목포한국병원",
+        "lattitude": "34.8092159",
+        "longtitude": "126.4163373",
+        "phone": "061-270-5500",
+        "roadaddr": "전남 목포시 영산로 483"
+    },
+    
+    {
+        "clinicName": "목포기독병원",
+        "lattitude": "34.80450851",
+        "longtitude": "126.4204226",
+        "phone": "061-280-7500",
+        "roadaddr": "전남 목포시 백년대로 303"
+    },
+    
+    {
+        "clinicName": "목포중앙병원",
+        "lattitude": "34.82139636",
+        "longtitude": "126.4210345",
+        "phone": "061-280-3000",
+        "roadaddr": "전남 목포시 영산로 623"
+    },
+    
+    {
+        "clinicName": "목포시의료원",
+        "lattitude": "34.80395642",
+        "longtitude": "126.405385",
+        "phone": "061-260-6500",
+        "roadaddr": "전남 목포시 이로로 18"
+    },
+    
+    {
+        "clinicName": "세안종합병원",
+        "lattitude": "34.81700626",
+        "longtitude": "126.380345",
+        "phone": "061-260-6700",
+        "roadaddr": "전남 목포시 고하대로 795-2"
+    },
+    
+    {
+        "clinicName": "전남중앙병원",
+        "lattitude": "34.81035559",
+        "longtitude": "126.3757216",
+        "phone": "061-260-3000",
+        "roadaddr": "전남 목포시 고하대로 724"
+    },
+    
+    {
+        "clinicName": "목포시보건소",
+        "lattitude": "34.8041968",
+        "longtitude": "126.3735256",
+        "phone": "061-277-4000",
+        "roadaddr": "전남 목포시 원산로45번길 5"
+    },
+    
+    {
+        "clinicName": "무안종합병원",
+        "lattitude": "34.99178785",
+        "longtitude": "126.489273",
+        "phone": "061-450-3000",
+        "roadaddr": "전남 무안군 무안읍 몽탄로 65"
+    },
+    
+    {
+        "clinicName": "무안군보건소",
+        "lattitude": "34.99026438",
+        "longtitude": "126.4807371",
+        "phone": "061-450-5041",
+        "roadaddr": "전남 무안군 무안읍 무안로 530"
+    },
+    
+    {
+        "clinicName": "보성아산병원",
+        "lattitude": "34.77585909",
+        "longtitude": "127.1045398",
+        "phone": "061-850-3114",
+        "roadaddr": "전남 보성군 미력면 가평길 36-17"
+    },
+    
+    {
+        "clinicName": "보성군보건소",
+        "lattitude": "34.77021381",
+        "longtitude": "127.0790408",
+        "phone": "061-850-5656",
+        "roadaddr": "전남 보성군 보성읍 송재로 153"
+    },
+    
+    {
+        "clinicName": "성가롤로병원",
+        "lattitude": "34.96470268",
+        "longtitude": "127.5436897",
+        "phone": "061-720-2500",
+        "roadaddr": "전남 순천시 순광로 221"
+    },
+    
+    {
+        "clinicName": "전라남도순천의료원",
+        "lattitude": "34.95798962",
+        "longtitude": "127.483034",
+        "phone": "061-759-9114",
+        "roadaddr": "전남 순천시 서문성터길 2"
+    },
+    
+    {
+        "clinicName": "신안군보건소",
+        "lattitude": "34.83360336",
+        "longtitude": "126.3514258",
+        "phone": "061-243-8550",
+        "roadaddr": "전남 신안군 압해읍 천사로 1004"
+    },
+    
+    {
+        "clinicName": "신안대우병원",
+        "lattitude": "34.72226208",
+        "longtitude": "125.9325639",
+        "phone": "061-262-3301",
+        "roadaddr": "전남 신안군 비금면 송치길 155-11"
+    },
+    
+    {
+        "clinicName": "여천전남병원",
+        "lattitude": "34.7691054",
+        "longtitude": "127.6542475",
+        "phone": "061-690-6000",
+        "roadaddr": "전남 여수시 무선로 95"
+    },
+    
+    {
+        "clinicName": "여수시보건소",
+        "lattitude": "34.75935595",
+        "longtitude": "127.6610778",
+        "phone": "1899-2012",
+        "roadaddr": "전남 여수시 시청서4길 47"
+    },
+    
+    {
+        "clinicName": "영광종합병원",
+        "lattitude": "35.28447",
+        "longtitude": "126.4989859",
+        "phone": "061-353-8000",
+        "roadaddr": "전남 영광군 영광읍 와룡로 3"
+    },
+    
+    {
+        "clinicName": "영광기독병원",
+        "lattitude": "35.27493143",
+        "longtitude": "126.5109315",
+        "phone": "061-350-3000",
+        "roadaddr": "전남 영광군 영광읍 신남로 265"
+    },
+    
+    {
+        "clinicName": "영광군보건소",
+        "lattitude": "35.27464165",
+        "longtitude": "126.5041771",
+        "phone": "061-350-5552",
+        "roadaddr": "전남 영광군 영광읍 신남로4길 17"
+    },
+    
+    {
+        "clinicName": "영암병원",
+        "lattitude": "34.79425415",
+        "longtitude": "126.7011809",
+        "phone": "061-470-7100",
+        "roadaddr": "전남 영암군 영암읍 오리정길 8"
+    },
+    
+    {
+        "clinicName": "영암군보건소",
+        "lattitude": "34.79508597",
+        "longtitude": "126.7036867",
+        "phone": "061-470-6525",
+        "roadaddr": "전남 영암군 영암읍 오리정길 39"
+    },
+    
+    {
+        "clinicName": "완도대성병원",
+        "lattitude": "34.31713349",
+        "longtitude": "126.7355676",
+        "phone": "061-553-1234",
+        "roadaddr": "전남 완도군 완도읍 청해진동로 63"
+    },
+    
+    {
+        "clinicName": "완도군보건의료원",
+        "lattitude": "34.33636178",
+        "longtitude": "126.7312995",
+        "phone": "061-550-6720",
+        "roadaddr": "전남 완도군 완도읍 농공단지길 34"
+    },
+    
+    {
+        "clinicName": "장성병원",
+        "lattitude": "35.30587171",
+        "longtitude": "126.7836196",
+        "phone": "061-390-9000",
+        "roadaddr": "전남 장성군 장성읍 역전로 171"
+    },
+    
+    {
+        "clinicName": "장성군보건소",
+        "lattitude": "35.30454285",
+        "longtitude": "126.7824532",
+        "phone": "061-390-7550",
+        "roadaddr": "전남 장성군 장성읍 청운11길 13"
+    },
+    
+    {
+        "clinicName": "장흥종합병원",
+        "lattitude": "34.67723672",
+        "longtitude": "126.9109511",
+        "phone": "061-862-8300",
+        "roadaddr": "전남 장흥군 장흥읍 흥성로 74"
+    },
+    
+    {
+        "clinicName": "장흥군보건소",
+        "lattitude": "34.67647125",
+        "longtitude": "126.9083037",
+        "phone": "061-862-4000",
+        "roadaddr": "전남 장흥군 장흥읍 흥성로 49"
+    },
+    
+    {
+        "clinicName": "한국병원",
+        "lattitude": "34.48243372",
+        "longtitude": "126.2641249",
+        "phone": "061-542-7575",
+        "roadaddr": "전남 진도군 진도읍 남문길 48"
+    },
+    
+    {
+        "clinicName": "진도군보건소",
+        "lattitude": "34.48037466",
+        "longtitude": "126.2628977",
+        "phone": "061-540-6003",
+        "roadaddr": "전남 진도군 진도읍 남동1길 40-9"
+    },
+    
+    {
+        "clinicName": "함평성심병원",
+        "lattitude": "35.06191457",
+        "longtitude": "126.5198122",
+        "phone": "061-324-0001",
+        "roadaddr": "전남 함평군 함평읍 영수길 132"
+    },
+    
+    {
+        "clinicName": "함평군보건소",
+        "lattitude": "35.06243707",
+        "longtitude": "126.5243147",
+        "phone": "061-320-3547",
+        "roadaddr": "전남 함평군 함평읍 중앙길 54-8"
+    },
+    
+    {
+        "clinicName": "해남종합병원",
+        "lattitude": "34.57180387",
+        "longtitude": "126.6126782",
+        "phone": "061-530-0114",
+        "roadaddr": "전남 해남군 해남읍 해남로 45"
+    },
+    
+    {
+        "clinicName": "해남우리종합병원",
+        "lattitude": "34.58423844",
+        "longtitude": "126.646583",
+        "phone": "061-530-7000",
+        "roadaddr": "전남 해남군 옥천면 해남로 597"
+    },
+    
+    {
+        "clinicName": "해남군보건소",
+        "lattitude": "34.57050376",
+        "longtitude": "126.6120391",
+        "phone": "061-531-3738",
+        "roadaddr": "전남 해남군 해남읍 해남로 46"
+    },
+    
+    {
+        "clinicName": "화순고려병원",
+        "lattitude": "35.05603216",
+        "longtitude": "126.9896477",
+        "phone": "061-370-3700",
+        "roadaddr": "전남 화순군 화순읍 충의로 109"
+    },
+    
+    {
+        "clinicName": "화순전남대학교병원",
+        "lattitude": "35.05942174",
+        "longtitude": "127.0027099",
+        "phone": "1899-0000",
+        "roadaddr": "전남 화순군 화순읍 서양로 322"
+    },
+    
+    {
+        "clinicName": "화순성심병원",
+        "lattitude": "35.05844065",
+        "longtitude": "126.9898798",
+        "phone": "061-370-9114",
+        "roadaddr": "전남 화순군 화순읍 만연로 31"
+    },
+    
+    {
+        "clinicName": "화순군보건소",
+        "lattitude": "35.05741581",
+        "longtitude": "126.9822591",
+        "phone": "061-379-5305",
+        "roadaddr": "전남 화순군 화순읍 쌍충로 62"
+    },
+    
+    {
+        "clinicName": "세명병원",
+        "lattitude": "35.82621954",
+        "longtitude": "128.7374067",
+        "phone": "053-819-8800",
+        "roadaddr": "경북 경산시 경안로 208"
+    },
+    
+    {
+        "clinicName": "경산중앙병원",
+        "lattitude": "35.80882761",
+        "longtitude": "128.7401562",
+        "phone": "053-715-0100",
+        "roadaddr": "경북 경산시 경안로 11"
+    },
+    
+    {
+        "clinicName": "경산시보건소",
+        "lattitude": "35.82505536",
+        "longtitude": "128.7433741",
+        "phone": "053-810-6364",
+        "roadaddr": "경북 경산시 남매로 158"
+    },
+    
+    {
+        "clinicName": "동국대학교 경주병원",
+        "lattitude": "35.85840058",
+        "longtitude": "129.1966975",
+        "phone": "054-748-9300",
+        "roadaddr": "경북 경주시 동대로 87"
+    },
+    
+    {
+        "clinicName": "경주시보건소",
+        "lattitude": "35.85946495",
+        "longtitude": "129.2246334",
+        "phone": "054-779-8573",
+        "roadaddr": "경북 경주시 양정로 300"
+    },
+    
+    {
+        "clinicName": "고령영생병원",
+        "lattitude": "35.72995342",
+        "longtitude": "128.2720965",
+        "phone": "054-955-2661",
+        "roadaddr": "경북 고령군 대가야읍 중앙로 33"
+    },
+    
+    {
+        "clinicName": "순천향대학교부속 구미병원",
+        "lattitude": "36.10288909",
+        "longtitude": "128.3825566",
+        "phone": "054-468-9114",
+        "roadaddr": "경북 구미시 1공단로 179"
+    },
+    
+    {
+        "clinicName": "차의과학대학교부속 구미차병원",
+        "lattitude": "36.11456529",
+        "longtitude": "128.3405227",
+        "phone": "054-450-9700",
+        "roadaddr": "경북 구미시 신시로10길 12"
+    },
+    
+    {
+        "clinicName": "구미강동병원",
+        "lattitude": "36.09619856",
+        "longtitude": "128.4229268",
+        "phone": "054-453-7575",
+        "roadaddr": "경북 구미시 인동20길 46"
+    },
+    
+    {
+        "clinicName": "구미보건소",
+        "lattitude": "36.13993541",
+        "longtitude": "128.3459536",
+        "phone": "054-480-4000",
+        "roadaddr": "경북 구미시 선산대로 111"
+    },
+    
+    {
+        "clinicName": "군위군보건소",
+        "lattitude": "36.22976469",
+        "longtitude": "128.5699733",
+        "phone": "054-380-7401",
+        "roadaddr": "경북 군위군 군위읍 군청로 70"
+    },
+    
+    {
+        "clinicName": "경상북도 김천의료원",
+        "lattitude": "36.122493",
+        "longtitude": "128.1266772",
+        "phone": "054-429-8114",
+        "roadaddr": "경북 김천시 모암길 24"
+    },
+    
+    {
+        "clinicName": "김천제일병원",
+        "lattitude": "36.13543915",
+        "longtitude": "128.1187474",
+        "phone": "054-420-9300",
+        "roadaddr": "경북 김천시 신음1길 12"
+    },
+    
+    {
+        "clinicName": "김천시보건소",
+        "lattitude": "36.13953477",
+        "longtitude": "128.112864",
+        "phone": "054-433-4000",
+        "roadaddr": "경북 김천시 시청1길 221"
+    },
+    
+    {
+        "clinicName": "문경제일병원",
+        "lattitude": "36.58446503",
+        "longtitude": "128.1893683",
+        "phone": "054-550-7700",
+        "roadaddr": "경북 문경시 당교3길 25"
+    },
+    
+    {
+        "clinicName": "문경중앙병원",
+        "lattitude": "36.59593057",
+        "longtitude": "128.1990698",
+        "phone": "054-555-2011",
+        "roadaddr": "경북 문경시 중앙로 117-18"
+    },
+    
+    {
+        "clinicName": "문경시보건소",
+        "lattitude": "36.59625627",
+        "longtitude": "128.1975058",
+        "phone": "054-555-2033",
+        "roadaddr": "경북 문경시 점촌1길 9"
+    },
+    
+    {
+        "clinicName": "봉화군보건소",
+        "lattitude": "36.89044784",
+        "longtitude": "128.7421565",
+        "phone": "054-673-4000",
+        "roadaddr": "경북 봉화군 봉화읍 봉화로 1203"
+    },
+    
+    {
+        "clinicName": "봉화해성병원",
+        "lattitude": "36.89172962",
+        "longtitude": "128.7335563",
+        "phone": "054-674-0011",
+        "roadaddr": "경북 봉화군 봉화읍 보밑길 3"
+    },
+    
+    {
+        "clinicName": "상주적십자병원",
+        "lattitude": "36.41466191",
+        "longtitude": "128.1555614",
+        "phone": "054-534-3501",
+        "roadaddr": "경북 상주시 상서문로 53"
+    },
+    
+    {
+        "clinicName": "상주성모병원",
+        "lattitude": "36.42028375",
+        "longtitude": "128.1597656",
+        "phone": "054-532-5001",
+        "roadaddr": "경북 상주시 냉림서성길 7"
+    },
+    
+    {
+        "clinicName": "상주시보건소",
+        "lattitude": "36.41664211",
+        "longtitude": "128.1505691",
+        "phone": "054-535-4000",
+        "roadaddr": "경북 상주시 중앙로 111"
+    },
+    
+    {
+        "clinicName": "성주군보건소",
+        "lattitude": "35.91738317",
+        "longtitude": "128.2786927",
+        "phone": "054-933-2400",
+        "roadaddr": "경북 성주군 성주읍 성밖숲길 12"
+    },
+    
+    {
+        "clinicName": "경상북도 안동의료원",
+        "lattitude": "36.5682688",
+        "longtitude": "128.7321344",
+        "phone": "054-850-6000",
+        "roadaddr": "경북 안동시 태사2길 55"
+    },
+    
+    {
+        "clinicName": "안동병원",
+        "lattitude": "36.54691623",
+        "longtitude": "128.7009705",
+        "phone": "054-840-1004",
+        "roadaddr": "경북 안동시 앙실로 11"
+    },
+    
+    {
+        "clinicName": "안동성소병원",
+        "lattitude": "36.56750783",
+        "longtitude": "128.7225323",
+        "phone": "054-850-8114",
+        "roadaddr": "경북 안동시 서동문로 99"
+    },
+    
+    {
+        "clinicName": "영덕아산병원",
+        "lattitude": "36.52464714",
+        "longtitude": "129.4022976",
+        "phone": "054-730-0114",
+        "roadaddr": "경북 영덕군 영해면 영덕로 1621"
+    },
+    
+    {
+        "clinicName": "영양병원",
+        "lattitude": "36.66257875",
+        "longtitude": "129.1172509",
+        "phone": "054-682-0727",
+        "roadaddr": "경북 영양군 영양읍 동서대로 75"
+    },
+    
+    {
+        "clinicName": "영주시보건소",
+        "lattitude": "36.80614041",
+        "longtitude": "128.6216667",
+        "phone": "054-631-4000",
+        "roadaddr": "경북 영주시 시청로1번길 19"
+    },
+    
+    {
+        "clinicName": "영남대학교 영천병원",
+        "lattitude": "35.9573369",
+        "longtitude": "128.9131415",
+        "phone": "054-338-9000",
+        "roadaddr": "경북 영천시 오수1길 10"
+    },
+    
+    {
+        "clinicName": "영천시보건소",
+        "lattitude": "35.96860051",
+        "longtitude": "128.9324744",
+        "phone": "054-339-7860",
+        "roadaddr": "경북 영천시 옛군청1길 31"
+    },
+    
+    {
+        "clinicName": "예천권병원",
+        "lattitude": "36.65741495",
+        "longtitude": "128.4589058",
+        "phone": "054-654-6611",
+        "roadaddr": "경북 예천군 예천읍 시장로 136"
+    },
+    
+    {
+        "clinicName": "울릉군보건의료원",
+        "lattitude": "37.48588629",
+        "longtitude": "130.8994963",
+        "phone": "054-790-6871",
+        "roadaddr": "경북 울릉군 울릉읍 울릉순환로 396-18"
+    },
+    
+    {
+        "clinicName": "울진군의료원",
+        "lattitude": "36.99264818",
+        "longtitude": "129.4094924",
+        "phone": "054-785-7000",
+        "roadaddr": "경북 울진군 울진읍 현내항길 71"
+    },
+    
+    {
+        "clinicName": "의성군보건소",
+        "lattitude": "36.36745787",
+        "longtitude": "128.6844695",
+        "phone": "054-830-6660",
+        "roadaddr": "경북 의성군 의성읍 북부길 150"
+    },
+    
+    {
+        "clinicName": "공생병원",
+        "lattitude": "36.35442276",
+        "longtitude": "128.6946864",
+        "phone": "054-834-3881",
+        "roadaddr": "경북 의성군 의성읍 문소3길 96"
+    },
+    
+    {
+        "clinicName": "대남병원",
+        "lattitude": "35.13229216",
+        "longtitude": "128.9957502",
+        "phone": "051-324-2227",
+        "roadaddr": "부산 사상구 학감대로39번길 116"
+    },
+    
+    {
+        "clinicName": "청송군보건의료원",
+        "lattitude": "36.43104046",
+        "longtitude": "129.052661",
+        "phone": "054-870-7100",
+        "roadaddr": "경북 청송군 청송읍 의료원길 19"
+    },
+    
+    {
+        "clinicName": "왜관병원",
+        "lattitude": "35.9961244",
+        "longtitude": "128.4015563",
+        "phone": "054-971-1002",
+        "roadaddr": "경북 칠곡군 왜관읍 군청2길 10"
+    },
+    
+    {
+        "clinicName": "포항시북구보건소",
+        "lattitude": "36.07076307",
+        "longtitude": "129.3800846",
+        "phone": "054-270-4114",
+        "roadaddr": "경북 포항시 북구 삼흥로 98"
+    },
+    
+    {
+        "clinicName": "포항시남구보건소",
+        "lattitude": "35.99243937",
+        "longtitude": "129.396231",
+        "phone": "054-270-4004",
+        "roadaddr": "경북 포항시 남구 동해안로 6119"
+    },
+    
+    {
+        "clinicName": "포항세명기독병원",
+        "lattitude": "36.01810082",
+        "longtitude": "129.3615706",
+        "phone": "054-275-0005",
+        "roadaddr": "경북 포항시 남구 포스코대로 351"
+    },
+    
+    {
+        "clinicName": "포항성모병원",
+        "lattitude": "36.01584245",
+        "longtitude": "129.3398173",
+        "phone": "054-272-0151",
+        "roadaddr": "경북 포항시 남구 대잠동길 17"
+    },
+    
+    {
+        "clinicName": "경상북도 포항의료원",
+        "lattitude": "36.03501859",
+        "longtitude": "129.3551228",
+        "phone": "054-247-0551",
+        "roadaddr": "경북 포항시 북구 용흥로 36"
+    },
+    
+    {
+        "clinicName": "거붕백병원",
+        "lattitude": "34.87361269",
+        "longtitude": "128.626059",
+        "phone": "055-733-0000",
+        "roadaddr": "경남 거제시 계룡로5길 14"
+    },
+    
+    {
+        "clinicName": "대우병원",
+        "lattitude": "34.8718272",
+        "longtitude": "128.721872",
+        "phone": "055-680-8114",
+        "roadaddr": "경남 거제시 두모길 16"
+    },
+    
+    {
+        "clinicName": "거제시보건소",
+        "lattitude": "34.89194535",
+        "longtitude": "128.6367461",
+        "phone": "055-639-6200",
+        "roadaddr": "경남 거제시 수양로 506"
+    },
+    
+    {
+        "clinicName": "거창적십자병원",
+        "lattitude": "35.68680949",
+        "longtitude": "127.9087223",
+        "phone": "055-944-3251",
+        "roadaddr": "경남 거창군 거창읍 중앙로 91"
+    },
+    
+    {
+        "clinicName": "거창군보건소",
+        "lattitude": "35.6809986",
+        "longtitude": "127.8985922",
+        "phone": "055-940-8310",
+        "roadaddr": "경남 거창군 거창읍 거함대로 3079"
+    },
+    
+    {
+        "clinicName": "고성군보건소",
+        "lattitude": "34.96945662",
+        "longtitude": "128.3153834",
+        "phone": "055-670-4001",
+        "roadaddr": "경남 고성군 고성읍 남포로79번길 103-3"
+    },
+    
+    {
+        "clinicName": "경희의료원교육협력 중앙병원",
+        "lattitude": "35.23075329",
+        "longtitude": "128.857004",
+        "phone": "055-330-6000",
+        "roadaddr": "경남 김해시 분성로 94-8"
+    },
+    
+    {
+        "clinicName": "조은금강병원",
+        "lattitude": "35.26232422",
+        "longtitude": "128.8614248",
+        "phone": "055-330-0300",
+        "roadaddr": "경남 김해시 김해대로 1814-37"
+    },
+    
+    {
+        "clinicName": "갑을장유병원",
+        "lattitude": "35.2086582",
+        "longtitude": "128.8056395",
+        "phone": "055-310-6000",
+        "roadaddr": "경남 김해시 장유로 167-13"
+    },
+    
+    {
+        "clinicName": "김해시보건소",
+        "lattitude": "35.2322292",
+        "longtitude": "128.8707099",
+        "phone": "055-330-4455",
+        "roadaddr": "경남 김해시 분성로 227"
+    },
+    
+    {
+        "clinicName": "남해군보건소",
+        "lattitude": "34.84493778",
+        "longtitude": "127.898644",
+        "phone": "055-860-8701",
+        "roadaddr": "경남 남해군 남해읍 선소로 6"
+    },
+    
+    {
+        "clinicName": "밀양윤병원",
+        "lattitude": "35.48466498",
+        "longtitude": "128.7556497",
+        "phone": "055-354-2200",
+        "roadaddr": "경남 밀양시 삼문중앙로 32"
+    },
+    
+    {
+        "clinicName": "밀양시보건소",
+        "lattitude": "35.48571323",
+        "longtitude": "128.756132",
+        "phone": "055-359-7020",
+        "roadaddr": "경남 밀양시 삼문중앙로 41"
+    },
+    
+    {
+        "clinicName": "삼천포서울병원",
+        "lattitude": "34.93305219",
+        "longtitude": "128.0801479",
+        "phone": "055-835-9900",
+        "roadaddr": "경남 사천시 남일로 33"
+    },
+    
+    {
+        "clinicName": "사천시보건소",
+        "lattitude": "35.00451463",
+        "longtitude": "128.0640964",
+        "phone": "055-831-3560",
+        "roadaddr": "경남 사천시 용현면 시청로 77"
+    },
+    
+    {
+        "clinicName": "산청군보건의료원",
+        "lattitude": "35.41607105",
+        "longtitude": "127.8842644",
+        "phone": "055-970-7500",
+        "roadaddr": "경남 산청군 산청읍 중앙로 97"
+    },
+    
+    {
+        "clinicName": "양산부산대학교병원",
+        "lattitude": "35.3278213",
+        "longtitude": "129.0058859",
+        "phone": "1577-7512",
+        "roadaddr": "경남 양산시 물금읍 금오로 20"
+    },
+    
+    {
+        "clinicName": "베데스다병원",
+        "lattitude": "35.35325737",
+        "longtitude": "129.0436185",
+        "phone": "055-384-9901",
+        "roadaddr": "경남 양산시 신기로 28"
+    },
+    
+    {
+        "clinicName": "웅상중앙병원",
+        "lattitude": "35.40637024",
+        "longtitude": "129.1644681",
+        "phone": "1600-7582",
+        "roadaddr": "경남 양산시 서창로 59"
+    },
+    
+    {
+        "clinicName": "양산시보건소",
+        "lattitude": "35.33573945",
+        "longtitude": "129.0249748",
+        "phone": "055-388-4000",
+        "roadaddr": "경남 양산시 삽량로 169"
+    },
+    
+    {
+        "clinicName": "의령병원",
+        "lattitude": "35.31858203",
+        "longtitude": "128.2586959",
+        "phone": "055-573-4100",
+        "roadaddr": "경남 의령군 의령읍 의병로14길 10"
+    },
+    
+    {
+        "clinicName": "의령군보건소",
+        "lattitude": "35.31790086",
+        "longtitude": "128.2548631",
+        "phone": "055-570-4010",
+        "roadaddr": "경남 의령군 의령읍 의병로8길 16"
+    },
+    
+    {
+        "clinicName": "경상대학교병원",
+        "lattitude": "35.17645339",
+        "longtitude": "128.0956406",
+        "phone": "055-750-8000",
+        "roadaddr": "경남 진주시 강남로 79"
+    },
+    
+    {
+        "clinicName": "진주제일병원",
+        "lattitude": "35.17938518",
+        "longtitude": "128.0903635",
+        "phone": "055-750-7123",
+        "roadaddr": "경남 진주시 진주대로 885"
+    },
+    
+    {
+        "clinicName": "진주고려병원",
+        "lattitude": "35.1784905",
+        "longtitude": "128.0920289",
+        "phone": "055-751-2500",
+        "roadaddr": "경남 진주시 동진로 2"
+    },
+    
+    {
+        "clinicName": "진주반도병원",
+        "lattitude": "35.19172349",
+        "longtitude": "128.0882139",
+        "phone": "055-749-0679",
+        "roadaddr": "경남 진주시 남강로 701"
+    },
+    
+    {
+        "clinicName": "진주복음병원",
+        "lattitude": "35.18538014",
+        "longtitude": "128.0693956",
+        "phone": "055-743-2580",
+        "roadaddr": "경남 진주시 진양호로 370"
+    },
+    
+    {
+        "clinicName": "세란병원",
+        "lattitude": "35.17447665",
+        "longtitude": "128.0929675",
+        "phone": "055-760-7500",
+        "roadaddr": "경남 진주시 진주대로 829"
+    },
+    
+    {
+        "clinicName": "한일병원",
+        "lattitude": "35.16694313",
+        "longtitude": "128.1285945",
+        "phone": "055-759-7777",
+        "roadaddr": "경남 진주시 범골로 17"
+    },
+    
+    {
+        "clinicName": "진주시보건소",
+        "lattitude": "35.21355607",
+        "longtitude": "128.1214475",
+        "phone": "055-741-4000",
+        "roadaddr": "경남 진주시 월아산로 2026"
+    },
+    
+    {
+        "clinicName": "한성병원",
+        "lattitude": "35.54212738",
+        "longtitude": "128.4933878",
+        "phone": "055-530-5000",
+        "roadaddr": "경남 창녕군 창녕읍 교리1길 2"
+    },
+    
+    {
+        "clinicName": "창녕군보건소",
+        "lattitude": "35.54362366",
+        "longtitude": "128.4900866",
+        "phone": "055-530-6201",
+        "roadaddr": "경남 창녕군 창녕읍 우포2로 1189-35"
+    },
+    
+    {
+        "clinicName": "창원시창원보건소",
+        "lattitude": "35.22804712",
+        "longtitude": "128.6855223",
+        "phone": "055-225-4000",
+        "roadaddr": "경남 창원시 의창구 중앙대로162번길 9"
+    },
+    
+    {
+        "clinicName": "SMG연세병원 선별진료소",
+        "lattitude": "35.18634556",
+        "longtitude": "128.5615327",
+        "phone": "055-240-7539",
+        "roadaddr": "경남 창원시 마산합포구 3.15대로 76"
+    },
+    
+    {
+        "clinicName": "마산보건소",
+        "lattitude": "35.18239943",
+        "longtitude": "128.5628985",
+        "phone": "055-245-4000",
+        "roadaddr": "경남 창원시 마산합포구 월영동북로 15"
+    },
+    
+    {
+        "clinicName": "진해보건소",
+        "lattitude": "35.1346418",
+        "longtitude": "128.7103893",
+        "phone": "055-225-6101",
+        "roadaddr": "경남 창원시 진해구 진해대로 1101"
+    },
+    
+    {
+        "clinicName": "연세에스병원",
+        "lattitude": "35.1547325",
+        "longtitude": "128.698345",
+        "phone": "055-548-7700",
+        "roadaddr": "경남 창원시 진해구 해원로32번길 13"
+    },
+    
+    {
+        "clinicName": "세광병원",
+        "lattitude": "35.1493715",
+        "longtitude": "128.661179",
+        "phone": "055-540-3700",
+        "roadaddr": "경남 창원시 진해구 중원동로 53"
+    },
+    
+    {
+        "clinicName": "성균관대학교 삼성창원병원",
+        "lattitude": "35.24282393",
+        "longtitude": "128.5920658",
+        "phone": "055-233-8899",
+        "roadaddr": "경남 창원시 마산회원구 팔용로 158"
+    },
+    
+    {
+        "clinicName": "경상남도 마산의료원",
+        "lattitude": "35.19917138",
+        "longtitude": "128.5655606",
+        "phone": "055-249-1000",
+        "roadaddr": "경남 창원시 마산합포구 3.15대로 231"
+    },
+    
+    {
+        "clinicName": "창원경상대학교병원",
+        "lattitude": "35.19920938",
+        "longtitude": "128.7078072",
+        "phone": "055-214-1000",
+        "roadaddr": "경남 창원시 성산구 삼정자로 11"
+    },
+    
+    {
+        "clinicName": "한마음창원병원",
+        "lattitude": "35.22118264",
+        "longtitude": "128.6866147",
+        "phone": "055-267-2000",
+        "roadaddr": "경남 창원시 성산구 원이대로682번길 21"
+    },
+    
+    {
+        "clinicName": "근로복지공단 창원병원",
+        "lattitude": "35.21855269",
+        "longtitude": "128.6714271",
+        "phone": "055-280-7777",
+        "roadaddr": "경남 창원시 성산구 창원대로 721"
+    },
+    
+    {
+        "clinicName": "창원파티마병원",
+        "lattitude": "35.23735738",
+        "longtitude": "128.645797",
+        "phone": "055-270-1000",
+        "roadaddr": "경남 창원시 의창구 창이대로 45"
+    },
+    
+    {
+        "clinicName": "통영적십자병원",
+        "lattitude": "34.84225692",
+        "longtitude": "128.4198149",
+        "phone": "055-644-8901",
+        "roadaddr": "경남 통영시 중앙로 97"
+    },
+    
+    {
+        "clinicName": "통영시보건소",
+        "lattitude": "34.85980831",
+        "longtitude": "128.4320176",
+        "phone": "055-650-6010",
+        "roadaddr": "경남 통영시 안개4길 108"
+    },
+    
+    {
+        "clinicName": "새하동병원",
+        "lattitude": "35.08304208",
+        "longtitude": "127.7385617",
+        "phone": "055-880-4200",
+        "roadaddr": "경남 하동군 하동읍 화심길 39"
+    },
+    
+    {
+        "clinicName": "하동군보건소",
+        "lattitude": "35.0669685",
+        "longtitude": "127.7527608",
+        "phone": "055-882-4000",
+        "roadaddr": "경남 하동군 하동읍 군청로 31"
+    },
+    
+    {
+        "clinicName": "영동병원",
+        "lattitude": "35.3089674",
+        "longtitude": "128.515658",
+        "phone": "055-586-2000",
+        "roadaddr": "경남 함안군 칠원읍 용산2길 45-13"
+    },
+    
+    {
+        "clinicName": "함안군보건소",
+        "lattitude": "35.27575801",
+        "longtitude": "128.4102665",
+        "phone": "055-580-3141",
+        "roadaddr": "경남 함안군 가야읍 중앙남4길 10"
+    },
+    
+    {
+        "clinicName": "함양성심병원",
+        "lattitude": "35.52045179",
+        "longtitude": "127.7292917",
+        "phone": "055-963-4322",
+        "roadaddr": "경남 함양군 함양읍 고운로 70"
+    },
+    
+    {
+        "clinicName": "함양군보건소",
+        "lattitude": "35.51967603",
+        "longtitude": "127.7317805",
+        "phone": "055-960-5331",
+        "roadaddr": "경남 함양군 함양읍 한들로 141"
+    },
+    
+    {
+        "clinicName": "삼성합천병원",
+        "lattitude": "35.56635581",
+        "longtitude": "128.1632714",
+        "phone": "055-933-2200",
+        "roadaddr": "경남 합천군 합천읍 대야로 876"
+    },
+    
+    {
+        "clinicName": "합천군보건소",
+        "lattitude": "35.56807143",
+        "longtitude": "128.1565633",
+        "phone": "055-930-3695",
+        "roadaddr": "경남 합천군 합천읍 동서로 39"
+    },
+    
+    {
+        "clinicName": "서귀포의료원",
+        "lattitude": "33.25537661",
+        "longtitude": "126.5642036",
+        "phone": "064-730-3000",
+        "roadaddr": "제주특별자치도 서귀포시 장수로 47"
+    },
+    
+    {
+        "clinicName": "서귀포열린병원",
+        "lattitude": "33.25445673",
+        "longtitude": "126.5654294",
+        "phone": "064-762-8001",
+        "roadaddr": "제주특별자치도 서귀포시 일주동로 8638"
+    },
+    
+    {
+        "clinicName": "제주대학교병원",
+        "lattitude": "33.46727355",
+        "longtitude": "126.5452564",
+        "phone": "064-717-1114",
+        "roadaddr": "제주특별자치도 제주시 아란13길 15"
+    },
+    
+    {
+        "clinicName": "제주한라병원",
+        "lattitude": "33.48987735",
+        "longtitude": "126.4850789",
+        "phone": "064-740-5000",
+        "roadaddr": "제주특별자치도 제주시 도령로 65"
+    },
+    
+    {
+        "clinicName": "한마음병원",
+        "lattitude": "33.49628689",
+        "longtitude": "126.5462368",
+        "phone": "064-750-9000",
+        "roadaddr": "제주특별자치도 제주시 연신로 52"
+    },
+    
+    {
+        "clinicName": "한국병원",
+        "lattitude": "33.50018661",
+        "longtitude": "126.5169882",
+        "phone": "064-750-0000",
+        "roadaddr": "제주특별자치도 제주시 서광로 193"
+    },
+    
+    {
+        "clinicName": "중앙병원",
+        "lattitude": "33.49228629",
+        "longtitude": "126.4705035",
+        "phone": "064-786-7000",
+        "roadaddr": "제주특별자치도 제주시 월랑로 91"
+    },
+    
+    {
+        "clinicName": "고대안암병원",
+        "lattitude": "37.5871245",
+        "longtitude": "127.026971",
+        "phone": "1577-0083",
+        "roadaddr": "서울 성북구 고려대로 73"
+    },
+    
+    {
+        "clinicName": "강동성심병원",
+        "lattitude": "37.5361093",
+        "longtitude": "127.135220",
+        "phone": "1588-4100",
+        "roadaddr": "서울 강동구 성안로 150"
+    },
+    
+    {
+        "clinicName": "한일병원",
+        "lattitude": "37.6460663",
+        "longtitude": "127.029144",
+        "phone": "02-901-3114",
+        "roadaddr": "서울 도봉구 우이천로 308"
+    },
+    
+    {
+        "clinicName": "신촌세브란스병원",
+        "lattitude": "37.5637563",
+        "longtitude": "126.937546",
+        "phone": "1599-1004",
+        "roadaddr": "서울 서대문구 연세로 50-1"
+    },
+    
+    {
+        "clinicName": "서울성모병원",
+        "lattitude": "37.5000641",
+        "longtitude": "127.005228",
+        "phone": "1588-1511",
+        "roadaddr": "서울 서초구 반포대로 222"
+    },
+    
+    {
+        "clinicName": "동남권원자력의학원",
+        "lattitude": "35.3208694",
+        "longtitude": "129.244157",
+        "phone": "051-720-5114",
+        "roadaddr": "부산 기장군 장안읍 좌동길 40"
+    },
+    
+    {
+        "clinicName": "인천백병원",
+        "lattitude": "37.4818328",
+        "longtitude": "126.645601",
+        "phone": "1800-7070",
+        "roadaddr": "인천 동구 샛골로 214"
+    },
+    
+    {
+        "clinicName": "지샘병원",
+        "lattitude": "37.3586651",
+        "longtitude": "126.947326",
+        "phone": "031-389-3000",
+        "roadaddr": "경기 군포시 군포로 591"
+    },
+    
+    {
+        "clinicName": "센트럴병원",
+        "lattitude": "37.3368637",
+        "longtitude": "126.728244",
+        "phone": "1588-9339",
+        "roadaddr": "경기 시흥시 공단1대로 237"
+    },
+    
+    {
+        "clinicName": "굿모닝병원",
+        "lattitude": "36.9906107",
+        "longtitude": "127.120509",
+        "phone": "031-5182-7700",
+        "roadaddr": "경기 평택시 중앙로 338"
+    },
+    
+    {
+        "clinicName": "박애병원",
+        "lattitude": "36.9931071",
+        "longtitude": "127.088981",
+        "phone": "031-652-2121",
+        "roadaddr": "경기 평택시 평택2로20번길 3"
+    },
+    
+    {
+        "clinicName": "효성병원",
+        "lattitude": "36.6243742",
+        "longtitude": "127.495343",
+        "phone": "043-221-5000",
+        "roadaddr": "충북 청주시 상당구 쇠내로 16"
+    },
+    
+    {
+        "clinicName": "하나병원",
+        "lattitude": "36.6236147",
+        "longtitude": "127.430889",
+        "phone": "043-230-6114",
+        "roadaddr": "충북 청주시 흥덕구 2순환로 1262"
+    },
+    
+    {
+        "clinicName": "고창병원",
+        "lattitude": "35.4363451",
+        "longtitude": "126.693316",
+        "phone": "063-560-5600",
+        "roadaddr": "전북 고창군 고창읍 화신1길 9"
+    },
+    
+    {
+        "clinicName": "남해병원",
+        "lattitude": "34.8463078",
+        "longtitude": "127.894393",
+        "phone": "055-863-2201",
+        "roadaddr": "경남 남해군 남해읍 화전로 169"
+    },
+    
+    {
+        "clinicName": "희명병원",
+        "lattitude": "37.4557098",
+        "longtitude": "126.900601",
+        "phone": "02-6712-0195",
+        "roadaddr": "서울 금천구 시흥대로 244"
+    },
+    
+    {
+        "clinicName": "독산보건분소",
+        "lattitude": "37.4736502",
+        "longtitude": "126.902182",
+        "phone": "02-2627-1967",
+        "roadaddr": "서울 금천구 독산로87길 27"
+    },
+    
+    {
+        "clinicName": "대덕구보건소",
+        "lattitude": "36.4448901",
+        "longtitude": "127.426277",
+        "phone": "042-608-5432",
+        "roadaddr": "대전 대덕구 석봉로38번길 55"
+    },
+    
+    {
+        "clinicName": "근로복지공단대전병원",
+        "lattitude": "36.3685720",
+        "longtitude": "127.428502",
+        "phone": "042-670-5376",
+        "roadaddr": "대전 대덕구 계족로 637"
+    },
+    
+    {
+        "clinicName": "동구보건소",
+        "lattitude": "36.3120344",
+        "longtitude": "127.454917",
+        "phone": "042-251-6305",
+        "roadaddr": "대전 동구 동구청로 147"
+    },
+    
+    {
+        "clinicName": "서구보건소",
+        "lattitude": "36.3670833",
+        "longtitude": "127.380971",
+        "phone": "042-288-4524",
+        "roadaddr": "대전 서구 만년로 74"
+    },
+    
+    {
+        "clinicName": "유성구보건소",
+        
+        "lattitude": "36.3582862",
+        "longtitude": "127.333109",
+        "phone": "042-611-5047",
+        "roadaddr": "대전 유성구 유성대로730번길 51"
+    },
+    
+    {
+        "clinicName": "중구보건소",
+        "lattitude": "36.3081275",
+        "longtitude": "127.395271",
+        "phone": "042-288-8035",
+        "roadaddr": "대전 중구 산성로 63"
+    },
+    
+    {
+        "clinicName": "영통구보건소",
+        "lattitude": "37.2567964",
+        "longtitude": "127.069423",
+        "phone": "031-228-8808",
+        "roadaddr": "경기 수원시 영통구 영통로 396"
+    },
+    
+    {
+        "clinicName": "순천시보건소",
+        "lattitude": "34.9667440",
+        "longtitude": "127.486558",
+        "phone": "061-749-6905",
+        "roadaddr": "전남 순천시 중앙로 232"
+    }
+
+]

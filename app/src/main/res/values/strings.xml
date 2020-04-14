@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CoronaSearch</string>
+
+    <string name="x_naver_client_id">HWk7uuTKQHjl2MtANGmT</string>
+    <string name="x_naver_client_secret">KghonegoPI</string>
+
+    <string name="about_corona">1. 코로나바이러스란?</string>
+    <string name="about_corona_info_1">코로나바이러스는 하나의 큰 바이러스 집단에 속합니다. 코로나바이러스는 주로 동물 간에 감염되는 바이러스지만 드물게 변종이 발생해 사람에게 감염되는 사람 코로나바이러스로 진화합니다. 현재 2019-nCoV로 알려진 신종 코로나바이러스도 이런 변종 중의 하나입니다. 사람이 코로나바이러스에 감염되면 보통 감기와 비슷한 경증에서 중증도의 호흡기 질환이 발생합니다. 이 중에서도 SARS(중증급성호흡기증후군)와 MERS(중동호흡기증후군)는 폐렴과 같은 치명적인 질환을 유발합니다.
+    </string>
+    <string name="about_corona_info_2">출처 : [네이버 지식백과] 코로나바이러스감염증-19 - COVID-19</string>
+    <string name="infection">2. 코로나 전파 경로?</string>
+    <string name="infection_info_1">사람 코로나바이러스의 전염경로는 다른 호흡기 감염(예: 인플루엔자)과 유사하며, 가장 흔한 전염경로는 다음과 같습니다.
+• 기침 또는 재채기를 할 때 배출되는 침방울(비말)
+• 감염자 간호를 포함한 밀접한 접촉
+• 바이러스가있는물체나표면을만지고,손을씻지않은채
+눈,코,입을 만지는 경우
+신종 코로나바이러스는 이전에 없던 새로운 바이러스 종이기 때문에 바이러스의 전파력 및 잠복기에 대해 매일 새롭게 알아나가고 있습니다. 새로운 정보를 얻는 즉시 시민분들께 알려드리겠습니다.
+아시아계 사람이 신종 코로나바이러스에 감염될 확률이 더 높다고 추정하지 마십시오.
+    </string>
+    <string name="infection_2">3. 코로나 감염증상?</string>
+    <string name="infection_2_info_1">보고에 따르면 경미한 증상부터 입원 치료가 필요할 만큼 심각한 증상까지
+다양하며, 심지어 죽음에 이르기도 합니다.
+증상: 발열, 기침, 중증질병
+
+중국에 다녀왔고, 귀국 후 14일 이내로 위의 증상이 하나라도 있으시면, 즉각 의료진에게 도움을 요청해야 합니다. 병원이나 응급실에 방문하기 전에, 미리 전화로 최근 여행력과 증상에 대해 알려야 합니다.</string>
+    <string name="corona_prevention_info_1">출처 : 중앙재난안전대책본부
+    </string>
+
+    <!--  앱 광고 배너 -->
+    <string name="admob_app_id">ca-app-pub-2488110704514213~3294163740</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2488110704514213/9409512931</string>
+    <string name="banner_ad_unit_id_for_test">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>
